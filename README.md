@@ -185,36 +185,21 @@ with an explicit decision — do not silently drop either.
 
 ## Submission
 
-**Status 22 Nov 2026 ~16:45 IST — repo NOT yet on GitHub (blocked, not
-skipped).** The GitHub connector is a GitHub App installation for
-`Gautam825406`: it can read/push existing repos but **cannot create a
-repository** — `create_repository` returns `403 Resource not accessible
-by integration`, and the repo `Gautam825406/graphone-intelligence-graph`
-does not exist yet (verified 404). A repo must be created by a human in
-the GitHub web UI first; after that the push below works. The push
-manifest is already prepared (`~/workspace/graphone-push-manifest.paths`,
-42 text files, 1.13 MB UTF-8) — nothing else needs preparing.
+**Status 22 Nov 2026 ~16:50 IST — LIVE on GitHub:**
+https://github.com/Gautam825406/graphone-intelligence-graph (public).
+The repo was created in the GitHub web UI (the connector's GitHub App
+cannot create repositories — `create_repository` returns `403 Resource
+not accessible by integration`), then all 42 text files were pushed
+in one snapshot commit. **Binary files cannot go through the
+connector** (it only accepts UTF-8 text) — upload these two via the
+GitHub web UI (repo page → "Add file" → "Upload files"):
+`architecture.pdf` (2 pages) and `data/graphone_output.xlsx` (6 tabs).
 
-Steps for Gautam:
-1. On github.com, create a **new empty public repo** named
-   `graphone-intelligence-graph` — do NOT tick "Add a README",
-   `.gitignore` or a licence (it must start empty). If GitHub asks
-   which repos the Muse GitHub App can access, include this new repo.
-2. Tell Muse "repo created" — the push command is then one step:
-   `github push-files --owner Gautam825406 --repo
-   graphone-intelligence-graph --branch main --source-dir
-   ~/workspace/graphone-intelligence-graph --paths-file
-   ~/workspace/graphone-push-manifest.paths`.
-3. **Binary files cannot go through the connector** (it only accepts
-   UTF-8 text; `create_or_update_file` takes a text string, not
-   base64). Upload these two via the GitHub web UI (repo page →
-   "Add file" → "Upload files"): `architecture.pdf` (2 pages) and
-   `data/graphone_output.xlsx` (6 tabs). That is 3 clicks each.
-4. Upload `data/graphone_output.xlsx` to Google Sheets (6 tabs) and
-   make it public (Google Sheets is not connected to Muse — needs
-   Gautam's Google account).
-5. Record a 5–10 min Loom video explaining the work.
-6. Submit the GitHub + Sheets + Loom links at
+Steps remaining for Gautam:
+1. Upload `architecture.pdf` + `data/graphone_output.xlsx` via the GitHub web UI (above) — 3 clicks each.
+2. The Google Sheet is already built and public: https://docs.google.com/spreadsheets/d/1h2jSM9baiz9qqBDSGKfCbw7u6QcOov7k_POcUWiC14s/edit
+3. Record a 5–10 min Loom video explaining the work.
+4. Submit the GitHub + Sheets + Loom links at
    https://forms.gle/3JJhukomumTFueRW7 (form also asks Name / Mobile /
    College / course / year / City / hours spent / start date).
 
