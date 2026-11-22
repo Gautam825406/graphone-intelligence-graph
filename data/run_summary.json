@@ -1,0 +1,32 @@
+{
+  "startups": 1100,
+  "products": 1100,
+  "research_papers": 1000,
+  "jobs": 117,
+  "news": 12,
+  "entity_mapping_log": 2317,
+  "github_stars_present": 127,
+  "github_urls_present": 131,
+  "news_per_source": {
+    "TechCrunch AI": 4,
+    "The Verge AI": 3,
+    "MIT Technology Review AI": 0,
+    "The Decoder": 5,
+    "ZDNet AI": 0
+  },
+  "jobs_per_source": {
+    "Arbeitnow (AI)": 116,
+    "RemoteOK": 0,
+    "Hacker News Jobs": 1,
+    "WeWorkRemotely": 0,
+    "Jobicy": 0
+  },
+  "llm": "groq_sample_9_of_10_grounded_qwen_qwen3.8-27b",
+  "github_stars_filled_at": "2026-11-22T11:06:24Z",
+  "github_stars_missing_404": [
+    "https://github.com/IAntoineV/sbd",
+    "https://github.com/jzdang/RemoteVLPG",
+    "https://github.com/msalman95/DA",
+    "https://github.com/seungyubhan/mint"
+  ]
+}

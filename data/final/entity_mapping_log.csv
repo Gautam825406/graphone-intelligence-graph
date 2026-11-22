@@ -1,0 +1,2318 @@
+raw_name,canonical_name,method,confidence,source
+LeadGenius,LeadGenius,self,0.5,Y Combinator
+Directed Edge,Directed Edge,self,0.5,Y Combinator
+Olark,Olark,self,0.5,Y Combinator
+JustSpotted,JustSpotted,self,0.5,Y Combinator
+Canopy Labs,Canopy Labs,self,0.5,Y Combinator
+Plivo,Plivo,self,0.5,Y Combinator
+RADAR,RADAR,self,0.5,Y Combinator
+Semantics3,Semantics3,self,0.5,Y Combinator
+Casetext,Casetext,self,0.5,Y Combinator
+CareMessage,CareMessage,self,0.5,Y Combinator
+Cruise,Cruise,self,0.5,Y Combinator
+MixerBox,MixerBox,self,0.5,Y Combinator
+OpenCurriculum,OpenCurriculum,self,0.5,Y Combinator
+Checkr,Checkr,self,0.5,Y Combinator
+SalesSift,SalesSift,self,0.5,Y Combinator
+Weave,Weave,self,0.5,Y Combinator
+Qventus,Qventus,self,0.5,Y Combinator
+20n,20n,self,0.5,Y Combinator
+Akido Labs,Akido Labs,self,0.5,Y Combinator
+Zeitview,Zeitview,self,0.5,Y Combinator
+Paperspace,Paperspace,self,0.5,Y Combinator
+Smarking,Smarking,self,0.5,Y Combinator
+Resolve,Resolve,self,0.5,Y Combinator
+Yhat,Yhat,self,0.5,Y Combinator
+Dabble,Dabble,self,0.5,Y Combinator
+SigOpt,SigOpt,self,0.5,Y Combinator
+Tara AI,Tara AI,self,0.5,Y Combinator
+Mashgin,Mashgin,self,0.5,Y Combinator
+ROSS Intelligence,ROSS Intelligence,self,0.5,Y Combinator
+SnapMagic,SnapMagic,self,0.5,Y Combinator
+Microhealth,Microhealth,self,0.5,Y Combinator
+Reduced Energy Microsystems,Reduced Energy Microsystems,self,0.5,Y Combinator
+Deepgram,Deepgram,self,0.5,Y Combinator
+iSono Health,iSono Health,self,0.5,Y Combinator
+Daily,Daily,self,0.5,Y Combinator
+Algoriz,Algoriz,self,0.5,Y Combinator
+Pulpix,Pulpix,self,0.5,Y Combinator
+Netomi,Netomi,self,0.5,Y Combinator
+Superside,Superside,self,0.5,Y Combinator
+Podium,Podium,self,0.5,Y Combinator
+Gecko Robotics,Gecko Robotics,self,0.5,Y Combinator
+HistoWiz,HistoWiz,self,0.5,Y Combinator
+Caper,Caper,self,0.5,Y Combinator
+Sendbird,Sendbird,self,0.5,Y Combinator
+Nova,Nova,self,0.5,Y Combinator
+Farmstead,Farmstead,self,0.5,Y Combinator
+Sway Finance,Sway Finance,self,0.5,Y Combinator
+Iris Automation,Iris Automation,self,0.5,Y Combinator
+OneChronos,OneChronos,self,0.5,Y Combinator
+garten,garten,self,0.5,Y Combinator
+Airo Health,Airo Health,self,0.5,Y Combinator
+Synvivia,Synvivia,self,0.5,Y Combinator
+Seerslab,Seerslab,self,0.5,Y Combinator
+Miso,Miso,self,0.5,Y Combinator
+Athelas,Athelas,self,0.5,Y Combinator
+Saleswhale,Saleswhale,self,0.5,Y Combinator
+Scale AI,Scale AI,exact,1.0,Y Combinator
+People.ai,People.ai,self,0.5,Y Combinator
+Voiceops,Voiceops,self,0.5,Y Combinator
+Speak,Speak,self,0.5,Y Combinator
+Scribe,Scribe,self,0.5,Y Combinator
+Pit.AI,Pit.AI,self,0.5,Y Combinator
+MDalgorithms Inc.,MDalgorithms Inc.,self,0.5,Y Combinator
+Entry,Entry,self,0.5,Y Combinator
+RankScience,RankScience,self,0.5,Y Combinator
+Ambient.ai,Ambient.ai,self,0.5,Y Combinator
+Penny,Penny,self,0.5,Y Combinator
+"Veryfi, Inc.","Veryfi, Inc.",self,0.5,Y Combinator
+AlemHealth,AlemHealth,self,0.5,Y Combinator
+Tetra,Tetra,self,0.5,Y Combinator
+BIOS Health,BIOS Health,self,0.5,Y Combinator
+NanoNets,NanoNets,self,0.5,Y Combinator
+Bicycle AI,Bicycle AI,self,0.5,Y Combinator
+Ridecell,Ridecell,self,0.5,Y Combinator
+Helix Nanotechnologies,Helix Nanotechnologies,self,0.5,Y Combinator
+ScopeAI,ScopeAI,self,0.5,Y Combinator
+Skyways,Skyways,self,0.5,Y Combinator
+VergeSense,VergeSense,self,0.5,Y Combinator
+Standard AI,Standard AI,self,0.5,Y Combinator
+Darmiyan,Darmiyan,self,0.5,Y Combinator
+Mystro,Mystro,self,0.5,Y Combinator
+Semantix,Semantix,self,0.5,Y Combinator
+Plasticity,Plasticity,self,0.5,Y Combinator
+Slik,Slik,self,0.5,Y Combinator
+Spect,Spect,self,0.5,Y Combinator
+D-ID,D-ID,self,0.5,Y Combinator
+Percept.AI,Percept.AI,self,0.5,Y Combinator
+Sourceress,Sourceress,self,0.5,Y Combinator
+May Mobility,May Mobility,self,0.5,Y Combinator
+Commissary Club (formerly 70 Million Jobs),Commissary Club (formerly 70 Million Jobs),self,0.5,Y Combinator
+AssemblyAI,AssemblyAI,self,0.5,Y Combinator
+Lyrebird,Lyrebird,self,0.5,Y Combinator
+10 By 10,10 By 10,self,0.5,Y Combinator
+Thematic,Thematic,self,0.5,Y Combinator
+FollowUpThen,FollowUpThen,self,0.5,Y Combinator
+Proven Group,Proven Group,self,0.5,Y Combinator
+Precious,Precious,self,0.5,Y Combinator
+Spellbrush,Spellbrush,self,0.5,Y Combinator
+Jasper.ai,Jasper.ai,self,0.5,Y Combinator
+Assembly,Assembly,self,0.5,Y Combinator
+Fondo,Fondo,self,0.5,Y Combinator
+Promise,Promise,self,0.5,Y Combinator
+Nuvocargo,Nuvocargo,self,0.5,Y Combinator
+Draftbit,Draftbit,self,0.5,Y Combinator
+Cognition IP,Cognition IP,self,0.5,Y Combinator
+Vathys,Vathys,self,0.5,Y Combinator
+Naborly,Naborly,self,0.5,Y Combinator
+Weekend (fmr. Volley),Weekend (fmr. Volley),self,0.5,Y Combinator
+SharpestMinds,SharpestMinds,self,0.5,Y Combinator
+Tilt (f.k.a. Delphia),Tilt (f.k.a. Delphia),self,0.5,Y Combinator
+Orangewood Labs,Orangewood Labs,self,0.5,Y Combinator
+Memora Health,Memora Health,self,0.5,Y Combinator
+AlgoSurg Inc,AlgoSurg Inc,self,0.5,Y Combinator
+Point API,Point API,self,0.5,Y Combinator
+Observe.AI,Observe.AI,self,0.5,Y Combinator
+Helloverify,Helloverify,self,0.5,Y Combinator
+Veriff,Veriff,self,0.5,Y Combinator
+Phiar,Phiar,self,0.5,Y Combinator
+OWNY,OWNY,self,0.5,Y Combinator
+Within,Within,self,0.5,Y Combinator
+"numericcal, inc.","numericcal, inc.",self,0.5,Y Combinator
+Searchlight,Searchlight,self,0.5,Y Combinator
+Data Driven Bioscience,Data Driven Bioscience,self,0.5,Y Combinator
+Inscribe,Inscribe,self,0.5,Y Combinator
+JITX,JITX,self,0.5,Y Combinator
+Anima App,Anima App,self,0.5,Y Combinator
+LabelFlow,LabelFlow,self,0.5,Y Combinator
+Regology,Regology,self,0.5,Y Combinator
+Quickchat AI,Quickchat AI,self,0.5,Y Combinator
+Rain Neuromorphics,Rain Neuromorphics,self,0.5,Y Combinator
+Alpha Vantage,Alpha Vantage,self,0.5,Y Combinator
+Prodigal,Prodigal,self,0.5,Y Combinator
+TENDERD,TENDERD,self,0.5,Y Combinator
+Eden,Eden,self,0.5,Y Combinator
+BrainHi,BrainHi,self,0.5,Y Combinator
+Mutiny,Mutiny,self,0.5,Y Combinator
+Leena AI,Leena AI,self,0.5,Y Combinator
+SPATE,SPATE,self,0.5,Y Combinator
+LemonBox,LemonBox,self,0.5,Y Combinator
+Aesthetic,Aesthetic,self,0.5,Y Combinator
+Kunduz,Kunduz,self,0.5,Y Combinator
+Overview,Overview,self,0.5,Y Combinator
+Flockjay,Flockjay,self,0.5,Y Combinator
+AllSome Fulfillment,AllSome Fulfillment,self,0.5,Y Combinator
+Centaur,Centaur,self,0.5,Y Combinator
+Windsor,Windsor,self,0.5,Y Combinator
+Hatch,Hatch,self,0.5,Y Combinator
+BrainKey,BrainKey,self,0.5,Y Combinator
+PatternFast (prior: Tailornova/Couturme),PatternFast (prior: Tailornova/Couturme),self,0.5,Y Combinator
+Community Phone Company,Community Phone Company,self,0.5,Y Combinator
+Sapling.ai,Sapling.ai,self,0.5,Y Combinator
+Demodesk,Demodesk,self,0.5,Y Combinator
+AI Insurance,AI Insurance,self,0.5,Y Combinator
+Evo.Do,Evo.Do,self,0.5,Y Combinator
+Docucharm,Docucharm,self,0.5,Y Combinator
+Askdata,Askdata,self,0.5,Y Combinator
+Probably Genetic,Probably Genetic,self,0.5,Y Combinator
+Superorder,Superorder,self,0.5,Y Combinator
+Bunkerhill Health,Bunkerhill Health,self,0.5,Y Combinator
+In The Room,In The Room,self,0.5,Y Combinator
+Hypnos,Hypnos,self,0.5,Y Combinator
+Superb AI,Superb AI,self,0.5,Y Combinator
+Glide,Glide,self,0.5,Y Combinator
+Sublime Black,Sublime Black,self,0.5,Y Combinator
+Mars Auto,Mars Auto,self,0.5,Y Combinator
+Allure Systems,Allure Systems,self,0.5,Y Combinator
+Tailor-ED,Tailor-ED,self,0.5,Y Combinator
+"OutRival, Inc.","OutRival, Inc.",self,0.5,Y Combinator
+Playground,Playground,self,0.5,Y Combinator
+Figments,Figments,self,0.5,Y Combinator
+Palifer,Palifer,self,0.5,Y Combinator
+Symplex,Symplex,self,0.5,Y Combinator
+Kraftful,Kraftful,self,0.5,Y Combinator
+Well Principled,Well Principled,self,0.5,Y Combinator
+Lantern,Lantern,self,0.5,Y Combinator
+GEn1E Lifesciences,GEn1E Lifesciences,self,0.5,Y Combinator
+Embrace,Embrace,self,0.5,Y Combinator
+Yummy Future,Yummy Future,self,0.5,Y Combinator
+ZETA SURGICAL,ZETA SURGICAL,self,0.5,Y Combinator
+Milo,Milo,self,0.5,Y Combinator
+Rosebud AI,Rosebud AI,self,0.5,Y Combinator
+Tensil,Tensil,self,0.5,Y Combinator
+Vahan,Vahan,self,0.5,Y Combinator
+Finlens,Finlens,self,0.5,Y Combinator
+Ramen VR,Ramen VR,self,0.5,Y Combinator
+Hightouch,Hightouch,self,0.5,Y Combinator
+Traces,Traces,self,0.5,Y Combinator
+Flowbot,Flowbot,self,0.5,Y Combinator
+Taskade,Taskade,self,0.5,Y Combinator
+Wonderly,Wonderly,self,0.5,Y Combinator
+Flowglad,Flowglad,self,0.5,Y Combinator
+Phonic,Phonic,self,0.5,Y Combinator
+StratumAI,StratumAI,self,0.5,Y Combinator
+MindsDB,MindsDB,self,0.5,Y Combinator
+FitnessAI,FitnessAI,self,0.5,Y Combinator
+Segmed,Segmed,self,0.5,Y Combinator
+Taiv,Taiv,self,0.5,Y Combinator
+Glisten AI,Glisten AI,self,0.5,Y Combinator
+Ardis AI,Ardis AI,self,0.5,Y Combinator
+Perceptive Technologies,Perceptive Technologies,self,0.5,Y Combinator
+Nextmv,Nextmv,self,0.5,Y Combinator
+Aden,Aden,self,0.5,Y Combinator
+Datasaur,Datasaur,self,0.5,Y Combinator
+Dashworks,Dashworks,self,0.5,Y Combinator
+Replicate,Replicate,exact,1.0,Y Combinator
+Basedash,Basedash,self,0.5,Y Combinator
+Clayboard,Clayboard,self,0.5,Y Combinator
+Visual One,Visual One,self,0.5,Y Combinator
+Turing Labs Inc.,Turing Labs Inc.,self,0.5,Y Combinator
+Ello,Ello,self,0.5,Y Combinator
+QueryPie AI,QueryPie AI,self,0.5,Y Combinator
+Kinter,Kinter,self,0.5,Y Combinator
+Dropbase,Dropbase,self,0.5,Y Combinator
+Photoroom,Photoroom,self,0.5,Y Combinator
+Modernbanc,Modernbanc,self,0.5,Y Combinator
+Skypher,Skypher,self,0.5,Y Combinator
+Recurrency,Recurrency,self,0.5,Y Combinator
+DeepSource,DeepSource,self,0.5,Y Combinator
+UrbanKisaan,UrbanKisaan,self,0.5,Y Combinator
+PillarPlus,PillarPlus,self,0.5,Y Combinator
+Anatomic,Anatomic,self,0.5,Y Combinator
+Zumo Labs,Zumo Labs,self,0.5,Y Combinator
+Overfit,Overfit,self,0.5,Y Combinator
+BeGo,BeGo,self,0.5,Y Combinator
+Recall.ai,Recall.ai,self,0.5,Y Combinator
+Atmo,Atmo,self,0.5,Y Combinator
+Airbyte,Airbyte,self,0.5,Y Combinator
+LFcarry,LFcarry,self,0.5,Y Combinator
+Algen Biotechnologies,Algen Biotechnologies,self,0.5,Y Combinator
+Roboflow,Roboflow,self,0.5,Y Combinator
+inFeedo AI,inFeedo AI,self,0.5,Y Combinator
+Datafold,Datafold,self,0.5,Y Combinator
+Blue Onion,Blue Onion,self,0.5,Y Combinator
+Shuttle,Shuttle,self,0.5,Y Combinator
+Hypotenuse AI,Hypotenuse AI,self,0.5,Y Combinator
+Kernal Biologics,Kernal Biologics,self,0.5,Y Combinator
+CoreCare,CoreCare,self,0.5,Y Combinator
+Humanloop,Humanloop,self,0.5,Y Combinator
+Omni,Omni,self,0.5,Y Combinator
+Atomic,Atomic,self,0.5,Y Combinator
+Nextera Robotics | DIDGE.ai,Nextera Robotics | DIDGE.ai,self,0.5,Y Combinator
+Hyper Online,Hyper Online,self,0.5,Y Combinator
+BIK,BIK,self,0.5,Y Combinator
+Aquarium Learning,Aquarium Learning,self,0.5,Y Combinator
+Cohere,Cohere,exact,1.0,Y Combinator
+Dataland,Dataland,self,0.5,Y Combinator
+Formal,Formal,self,0.5,Y Combinator
+Ready,Ready,self,0.5,Y Combinator
+Taktile,Taktile,self,0.5,Y Combinator
+Mito,Mito,self,0.5,Y Combinator
+AI.Fashion,AI.Fashion,self,0.5,Y Combinator
+Glimpse,Glimpse,self,0.5,Y Combinator
+"Warmly,","Warmly,",self,0.5,Y Combinator
+Fieldguide,Fieldguide,self,0.5,Y Combinator
+Heron,Heron,self,0.5,Y Combinator
+Degrees of Freedom,Degrees of Freedom,self,0.5,Y Combinator
+cloud humans,cloud humans,self,0.5,Y Combinator
+Atomic Industries,Atomic Industries,self,0.5,Y Combinator
+authzed,authzed,self,0.5,Y Combinator
+Humaans,Humaans,self,0.5,Y Combinator
+RocketSDR,RocketSDR,self,0.5,Y Combinator
+Quadrant Eye,Quadrant Eye,self,0.5,Y Combinator
+SBX Robotics,SBX Robotics,self,0.5,Y Combinator
+arnata,arnata,self,0.5,Y Combinator
+Pibit.ai,Pibit.ai,self,0.5,Y Combinator
+Vogent,Vogent,self,0.5,Y Combinator
+Flux Auto,Flux Auto,self,0.5,Y Combinator
+Fountain9,Fountain9,self,0.5,Y Combinator
+Avocado,Avocado,self,0.5,Y Combinator
+Pragmatic Leaders (Ankai Inc),Pragmatic Leaders (Ankai Inc),self,0.5,Y Combinator
+Encord,Encord,self,0.5,Y Combinator
+Sivo,Sivo,self,0.5,Y Combinator
+Cyble,Cyble,self,0.5,Y Combinator
+Supadock,Supadock,self,0.5,Y Combinator
+Expent Inc,Expent Inc,self,0.5,Y Combinator
+Version Story Compare,Version Story Compare,self,0.5,Y Combinator
+Emerge Tools,Emerge Tools,self,0.5,Y Combinator
+Parsagon,Parsagon,self,0.5,Y Combinator
+Alinea,Alinea,self,0.5,Y Combinator
+Vapi,Vapi,self,0.5,Y Combinator
+Quadrant Health,Quadrant Health,self,0.5,Y Combinator
+Mindee,Mindee,self,0.5,Y Combinator
+Popl,Popl,self,0.5,Y Combinator
+Fathom,Fathom,self,0.5,Y Combinator
+True3D,True3D,self,0.5,Y Combinator
+FirstSupport.ai,FirstSupport.ai,self,0.5,Y Combinator
+Rinsed,Rinsed,self,0.5,Y Combinator
+LiveFlow,LiveFlow,self,0.5,Y Combinator
+Datrics,Datrics,self,0.5,Y Combinator
+Nimbus,Nimbus,self,0.5,Y Combinator
+Tractian,Tractian,self,0.5,Y Combinator
+Enable Us,Enable Us,self,0.5,Y Combinator
+InpharmD,InpharmD,self,0.5,Y Combinator
+Tint,Tint,self,0.5,Y Combinator
+unSurvey,unSurvey,self,0.5,Y Combinator
+TaoFi,TaoFi,self,0.5,Y Combinator
+Reclaim Protocol,Reclaim Protocol,self,0.5,Y Combinator
+Biodock,Biodock,self,0.5,Y Combinator
+Venu AI,Venu AI,self,0.5,Y Combinator
+Compose.ai,Compose.ai,self,0.5,Y Combinator
+Lamar Health,Lamar Health,self,0.5,Y Combinator
+Codeball,Codeball,self,0.5,Y Combinator
+Dataherald,Dataherald,self,0.5,Y Combinator
+Rejoy Health,Rejoy Health,self,0.5,Y Combinator
+Treinta,Treinta,self,0.5,Y Combinator
+OlaClick,OlaClick,self,0.5,Y Combinator
+Spline,Spline,self,0.5,Y Combinator
+BusinessOnBot,BusinessOnBot,self,0.5,Y Combinator
+Gigs,Gigs,self,0.5,Y Combinator
+Friz,Friz,self,0.5,Y Combinator
+Mystic,Mystic,self,0.5,Y Combinator
+MarqVision,MarqVision,self,0.5,Y Combinator
+MindPortal,MindPortal,self,0.5,Y Combinator
+Waydev,Waydev,self,0.5,Y Combinator
+AXAR AI,AXAR AI,self,0.5,Y Combinator
+Ollama,Ollama,self,0.5,Y Combinator
+Humance,Humance,self,0.5,Y Combinator
+Journey,Journey,self,0.5,Y Combinator
+Openlayer,Openlayer,self,0.5,Y Combinator
+Slope,Slope,self,0.5,Y Combinator
+Legion Health,Legion Health,self,0.5,Y Combinator
+Superwall,Superwall,self,0.5,Y Combinator
+Mindstate Design Labs,Mindstate Design Labs,self,0.5,Y Combinator
+Serif Health,Serif Health,self,0.5,Y Combinator
+Abstra,Abstra,self,0.5,Y Combinator
+Jestor,Jestor,self,0.5,Y Combinator
+Potion,Potion,self,0.5,Y Combinator
+Replo,Replo,self,0.5,Y Combinator
+FirstQuadrant,FirstQuadrant,self,0.5,Y Combinator
+Kalam Labs,Kalam Labs,self,0.5,Y Combinator
+Affogato AI,Affogato AI,self,0.5,Y Combinator
+Coulomb AI,Coulomb AI,self,0.5,Y Combinator
+Confido,Confido,self,0.5,Y Combinator
+Instalab,Instalab,self,0.5,Y Combinator
+zaz⚡️os,zaz⚡️os,self,0.5,Y Combinator
+Swipe,Swipe,self,0.5,Y Combinator
+Neodocs,Neodocs,self,0.5,Y Combinator
+MobileBoost,MobileBoost,self,0.5,Y Combinator
+Sleek,Sleek,self,0.5,Y Combinator
+Soco,Soco,self,0.5,Y Combinator
+Bite Ninja,Bite Ninja,self,0.5,Y Combinator
+Anakin,Anakin,self,0.5,Y Combinator
+SnapCalorie,SnapCalorie,self,0.5,Y Combinator
+Dailybot,Dailybot,self,0.5,Y Combinator
+Tavus,Tavus,self,0.5,Y Combinator
+Konta.com,Konta.com,self,0.5,Y Combinator
+Verihubs,Verihubs,self,0.5,Y Combinator
+Secoda,Secoda,self,0.5,Y Combinator
+Kaya,Kaya,self,0.5,Y Combinator
+SalaryBox,SalaryBox,self,0.5,Y Combinator
+Redbean,Redbean,self,0.5,Y Combinator
+Sentiyen,Sentiyen,self,0.5,Y Combinator
+Hyperbrowser,Hyperbrowser,self,0.5,Y Combinator
+SenpAI.GG,SenpAI.GG,self,0.5,Y Combinator
+Warpfy,Warpfy,self,0.5,Y Combinator
+Tiriel AI,Tiriel AI,self,0.5,Y Combinator
+DigiBuild,DigiBuild,self,0.5,Y Combinator
+OneStopKitchen,OneStopKitchen,self,0.5,Y Combinator
+Scispot,Scispot,self,0.5,Y Combinator
+Coinrule,Coinrule,self,0.5,Y Combinator
+Malloc Inc,Malloc Inc,self,0.5,Y Combinator
+Milky Way AI,Milky Way AI,self,0.5,Y Combinator
+ShipBlu,ShipBlu,self,0.5,Y Combinator
+GetDot,GetDot,self,0.5,Y Combinator
+Alrighty,Alrighty,self,0.5,Y Combinator
+OneSchema,OneSchema,self,0.5,Y Combinator
+Forage Mail,Forage Mail,self,0.5,Y Combinator
+Mine,Mine,self,0.5,Y Combinator
+Zensors,Zensors,self,0.5,Y Combinator
+aSim,aSim,self,0.5,Y Combinator
+Spark Studio,Spark Studio,self,0.5,Y Combinator
+Mentum,Mentum,self,0.5,Y Combinator
+Writesonic,Writesonic,self,0.5,Y Combinator
+Mach9,Mach9,self,0.5,Y Combinator
+Revery AI,Revery AI,self,0.5,Y Combinator
+Tenyks,Tenyks,self,0.5,Y Combinator
+Adni,Adni,self,0.5,Y Combinator
+Telmai,Telmai,self,0.5,Y Combinator
+Hudson Labs (formerly Bedrock AI),Hudson Labs (formerly Bedrock AI),self,0.5,Y Combinator
+Zuma,Zuma,self,0.5,Y Combinator
+Vibe Kanban,Vibe Kanban,self,0.5,Y Combinator
+Caire Health,Caire Health,self,0.5,Y Combinator
+Shape,Shape,self,0.5,Y Combinator
+ContraForce,ContraForce,self,0.5,Y Combinator
+Output Labs,Output Labs,self,0.5,Y Combinator
+Squire.ai,Squire.ai,self,0.5,Y Combinator
+Spoken,Spoken,self,0.5,Y Combinator
+Bytebot,Bytebot,self,0.5,Y Combinator
+Adravision,Adravision,self,0.5,Y Combinator
+Medium Biosciences,Medium Biosciences,self,0.5,Y Combinator
+Safer Management,Safer Management,self,0.5,Y Combinator
+Exa,Exa,self,0.5,Y Combinator
+Sully,Sully,self,0.5,Y Combinator
+Andi,Andi,self,0.5,Y Combinator
+Attack Capital,Attack Capital,self,0.5,Y Combinator
+SilkChart,SilkChart,self,0.5,Y Combinator
+TigerEye,TigerEye,self,0.5,Y Combinator
+Agave,Agave,self,0.5,Y Combinator
+Strac,Strac,self,0.5,Y Combinator
+Drama Drama,Drama Drama,self,0.5,Y Combinator
+Capuchin,Capuchin,self,0.5,Y Combinator
+Sieve,Sieve,self,0.5,Y Combinator
+PolicyFly,PolicyFly,self,0.5,Y Combinator
+Trellus,Trellus,self,0.5,Y Combinator
+Clickpad,Clickpad,self,0.5,Y Combinator
+VantedgeAI,VantedgeAI,self,0.5,Y Combinator
+PromptLoop,PromptLoop,self,0.5,Y Combinator
+Cozmo AI,Cozmo AI,self,0.5,Y Combinator
+Sota2,Sota2,self,0.5,Y Combinator
+Stably AI (Orca),Stably AI (Orca),self,0.5,Y Combinator
+CoffeeAI,CoffeeAI,self,0.5,Y Combinator
+Sei AI,Sei AI,self,0.5,Y Combinator
+Axross Pte Ltd,Axross Pte Ltd,self,0.5,Y Combinator
+Spinach AI,Spinach AI,self,0.5,Y Combinator
+Nyckel,Nyckel,self,0.5,Y Combinator
+Gym Class,Gym Class,self,0.5,Y Combinator
+InferEdge,InferEdge,self,0.5,Y Combinator
+Industrial Next,Industrial Next,self,0.5,Y Combinator
+Rownd,Rownd,self,0.5,Y Combinator
+Kaso,Kaso,self,0.5,Y Combinator
+Bobidi,Bobidi,self,0.5,Y Combinator
+Embedded Labs,Embedded Labs,self,0.5,Y Combinator
+Fieldproxy,Fieldproxy,self,0.5,Y Combinator
+Unlayer,Unlayer,self,0.5,Y Combinator
+Criya,Criya,self,0.5,Y Combinator
+haddock,haddock,self,0.5,Y Combinator
+Fintelite,Fintelite,self,0.5,Y Combinator
+Cerebrium,Cerebrium,self,0.5,Y Combinator
+Versable,Versable,self,0.5,Y Combinator
+MosaicVoice,MosaicVoice,self,0.5,Y Combinator
+Beam,Beam,self,0.5,Y Combinator
+Sophys,Sophys,self,0.5,Y Combinator
+Armilla AI,Armilla AI,self,0.5,Y Combinator
+Dart,Dart,self,0.5,Y Combinator
+Emobi,Emobi,self,0.5,Y Combinator
+National Finance Olympiad,National Finance Olympiad,self,0.5,Y Combinator
+Reforged Labs,Reforged Labs,self,0.5,Y Combinator
+Flagright,Flagright,self,0.5,Y Combinator
+T3 Chat,T3 Chat,self,0.5,Y Combinator
+Speechly,Speechly,self,0.5,Y Combinator
+Sphere,Sphere,self,0.5,Y Combinator
+SkyLink,SkyLink,self,0.5,Y Combinator
+RefineTrain AI,RefineTrain AI,self,0.5,Y Combinator
+PermitFlow,PermitFlow,self,0.5,Y Combinator
+NearWave,NearWave,self,0.5,Y Combinator
+Siftly,Siftly,self,0.5,Y Combinator
+Velt,Velt,self,0.5,Y Combinator
+Cogram,Cogram,self,0.5,Y Combinator
+Cotera,Cotera,self,0.5,Y Combinator
+Curacel,Curacel,self,0.5,Y Combinator
+Finnt,Finnt,self,0.5,Y Combinator
+Strong Compute,Strong Compute,self,0.5,Y Combinator
+Dukesell,Dukesell,self,0.5,Y Combinator
+Lovage,Lovage,self,0.5,Y Combinator
+"Sendme, Inc","Sendme, Inc",self,0.5,Y Combinator
+Sprites,Sprites,self,0.5,Y Combinator
+SmartHelio,SmartHelio,self,0.5,Y Combinator
+goodfin,goodfin,self,0.5,Y Combinator
+Airwork,Airwork,self,0.5,Y Combinator
+Cinder,Cinder,self,0.5,Y Combinator
+BotCity,BotCity,self,0.5,Y Combinator
+Vimmerse,Vimmerse,self,0.5,Y Combinator
+Broccoli AI,Broccoli AI,self,0.5,Y Combinator
+Rome AI,Rome AI,self,0.5,Y Combinator
+Bemlo,Bemlo,self,0.5,Y Combinator
+Talentropy.ai,Talentropy.ai,self,0.5,Y Combinator
+mutable.ai,mutable.ai,self,0.5,Y Combinator
+Theneo,Theneo,self,0.5,Y Combinator
+Ponyrun,Ponyrun,self,0.5,Y Combinator
+Top Road,Top Road,self,0.5,Y Combinator
+AvairSense,AvairSense,self,0.5,Y Combinator
+IoTFlows Inc,IoTFlows Inc,self,0.5,Y Combinator
+HOAi,HOAi,self,0.5,Y Combinator
+Spade,Spade,self,0.5,Y Combinator
+Status,Status,self,0.5,Y Combinator
+Shaped,Shaped,self,0.5,Y Combinator
+Ploomber,Ploomber,self,0.5,Y Combinator
+Housewarming,Housewarming,self,0.5,Y Combinator
+RTHM,RTHM,self,0.5,Y Combinator
+Blink,Blink,self,0.5,Y Combinator
+Humand,Humand,self,0.5,Y Combinator
+Workflow86,Workflow86,self,0.5,Y Combinator
+Codec,Codec,self,0.5,Y Combinator
+Postal,Postal,self,0.5,Y Combinator
+AYC Fund,AYC Fund,self,0.5,Y Combinator
+Heptabase,Heptabase,self,0.5,Y Combinator
+Kenobi,Kenobi,self,0.5,Y Combinator
+Nara,Nara,self,0.5,Y Combinator
+Query Vary,Query Vary,self,0.5,Y Combinator
+Impossible Metals,Impossible Metals,self,0.5,Y Combinator
+Cellbyte,Cellbyte,self,0.5,Y Combinator
+GovDash,GovDash,self,0.5,Y Combinator
+KorrAI,KorrAI,self,0.5,Y Combinator
+MSPilot,MSPilot,self,0.5,Y Combinator
+Flike,Flike,self,0.5,Y Combinator
+Reality Defender,Reality Defender,self,0.5,Y Combinator
+WhiteLab Genomics,WhiteLab Genomics,self,0.5,Y Combinator
+Poly,Poly,self,0.5,Y Combinator
+Layerup,Layerup,self,0.5,Y Combinator
+Paces,Paces,self,0.5,Y Combinator
+Airtrain AI,Airtrain AI,self,0.5,Y Combinator
+Star,Star,self,0.5,Y Combinator
+Elessar,Elessar,self,0.5,Y Combinator
+Julius,Julius,self,0.5,Y Combinator
+Ciro,Ciro,self,0.5,Y Combinator
+Dialect,Dialect,self,0.5,Y Combinator
+Truva,Truva,self,0.5,Y Combinator
+SigmaMind AI,SigmaMind AI,self,0.5,Y Combinator
+Two Dots,Two Dots,self,0.5,Y Combinator
+Superpowered AI,Superpowered AI,self,0.5,Y Combinator
+Makeasite,Makeasite,self,0.5,Y Combinator
+Bunting Labs,Bunting Labs,self,0.5,Y Combinator
+Pasito,Pasito,self,0.5,Y Combinator
+Blitz,Blitz,self,0.5,Y Combinator
+Cerrion,Cerrion,self,0.5,Y Combinator
+Impractical,Impractical,self,0.5,Y Combinator
+CustomerOS,CustomerOS,self,0.5,Y Combinator
+CODEXA,CODEXA,self,0.5,Y Combinator
+Champ,Champ,self,0.5,Y Combinator
+Trebu,Trebu,self,0.5,Y Combinator
+Fetii,Fetii,self,0.5,Y Combinator
+Craze,Craze,self,0.5,Y Combinator
+Paragon AI,Paragon AI,self,0.5,Y Combinator
+NuMind,NuMind,self,0.5,Y Combinator
+Midplane,Midplane,self,0.5,Y Combinator
+Overwatch,Overwatch,self,0.5,Y Combinator
+Blee,Blee,self,0.5,Y Combinator
+Raven,Raven,self,0.5,Y Combinator
+Activepieces,Activepieces,self,0.5,Y Combinator
+Popsy,Popsy,self,0.5,Y Combinator
+Juicebox,Juicebox,self,0.5,Y Combinator
+Phind,Phind,self,0.5,Y Combinator
+Flair Labs,Flair Labs,self,0.5,Y Combinator
+Unify,Unify,self,0.5,Y Combinator
+Mistle,Mistle,self,0.5,Y Combinator
+Typewise,Typewise,self,0.5,Y Combinator
+NewsCatcher,NewsCatcher,self,0.5,Y Combinator
+100x,100x,self,0.5,Y Combinator
+Provision,Provision,self,0.5,Y Combinator
+Thera,Thera,self,0.5,Y Combinator
+Peoplebox.ai,Peoplebox.ai,self,0.5,Y Combinator
+Coris,Coris,self,0.5,Y Combinator
+Hedgehog,Hedgehog,self,0.5,Y Combinator
+AnythingLLM,AnythingLLM,self,0.5,Y Combinator
+OpenScale,OpenScale,self,0.5,Y Combinator
+AviaryAI,AviaryAI,self,0.5,Y Combinator
+FlyCode,FlyCode,self,0.5,Y Combinator
+Maya Labs,Maya Labs,self,0.5,Y Combinator
+Rima AI (formerly Garage),Rima AI (formerly Garage),self,0.5,Y Combinator
+Quinn,Quinn,self,0.5,Y Combinator
+Aurelian,Aurelian,self,0.5,Y Combinator
+Metriport,Metriport,self,0.5,Y Combinator
+Fini,Fini,self,0.5,Y Combinator
+Cobbery,Cobbery,self,0.5,Y Combinator
+Feather,Feather,self,0.5,Y Combinator
+Artemis Search,Artemis Search,self,0.5,Y Combinator
+Unthread,Unthread,self,0.5,Y Combinator
+Ad Army,Ad Army,self,0.5,Y Combinator
+Sanifu,Sanifu,self,0.5,Y Combinator
+HOMLI,HOMLI,self,0.5,Y Combinator
+Boton,Boton,self,0.5,Y Combinator
+Avina,Avina,self,0.5,Y Combinator
+Invofox,Invofox,self,0.5,Y Combinator
+Firecrawl,Firecrawl,self,0.5,Y Combinator
+Jasmine Energy,Jasmine Energy,self,0.5,Y Combinator
+Oneleet,Oneleet,self,0.5,Y Combinator
+Wondercraft,Wondercraft,self,0.5,Y Combinator
+Clearline,Clearline,self,0.5,Y Combinator
+Monterey AI,Monterey AI,self,0.5,Y Combinator
+Pump.co,Pump.co,self,0.5,Y Combinator
+Knowtex,Knowtex,self,0.5,Y Combinator
+Delfino AI,Delfino AI,self,0.5,Y Combinator
+CAPSULE,CAPSULE,self,0.5,Y Combinator
+InVision Medical Technology,InVision Medical Technology,self,0.5,Y Combinator
+Cambio,Cambio,self,0.5,Y Combinator
+Axle,Axle,self,0.5,Y Combinator
+Landeed,Landeed,self,0.5,Y Combinator
+Chima,Chima,self,0.5,Y Combinator
+Intuned,Intuned,self,0.5,Y Combinator
+Integrated Reasoning,Integrated Reasoning,self,0.5,Y Combinator
+Dev Tools AI,Dev Tools AI,self,0.5,Y Combinator
+Polymath Robotics,Polymath Robotics,self,0.5,Y Combinator
+Sameday,Sameday,self,0.5,Y Combinator
+Zudo,Zudo,self,0.5,Y Combinator
+Rubbrband,Rubbrband,self,0.5,Y Combinator
+Middleware,Middleware,self,0.5,Y Combinator
+StackAI,StackAI,self,0.5,Y Combinator
+Designbase,Designbase,self,0.5,Y Combinator
+Blyss,Blyss,self,0.5,Y Combinator
+Reflex,Reflex,self,0.5,Y Combinator
+Linum,Linum,self,0.5,Y Combinator
+Trigger.dev,Trigger.dev,self,0.5,Y Combinator
+Layup,Layup,self,0.5,Y Combinator
+Credal.ai,Credal.ai,self,0.5,Y Combinator
+Rollstack,Rollstack,self,0.5,Y Combinator
+Paperplane,Paperplane,self,0.5,Y Combinator
+Novelcare,Novelcare,self,0.5,Y Combinator
+Lume,Lume,self,0.5,Y Combinator
+Concourse,Concourse,self,0.5,Y Combinator
+Latent,Latent,self,0.5,Y Combinator
+Backdrop,Backdrop,self,0.5,Y Combinator
+Demospace,Demospace,self,0.5,Y Combinator
+Brewit,Brewit,self,0.5,Y Combinator
+Lynx,Lynx,self,0.5,Y Combinator
+Palomma,Palomma,self,0.5,Y Combinator
+Rubber Ducky Labs,Rubber Ducky Labs,self,0.5,Y Combinator
+Pair AI,Pair AI,self,0.5,Y Combinator
+Ohm,Ohm,self,0.5,Y Combinator
+Double – Coding Copilot,Double – Coding Copilot,self,0.5,Y Combinator
+Glass Health,Glass Health,self,0.5,Y Combinator
+Versive,Versive,self,0.5,Y Combinator
+Salient,Salient,self,0.5,Y Combinator
+Dataglade,Dataglade,self,0.5,Y Combinator
+Omnistrate,Omnistrate,self,0.5,Y Combinator
+Narrative,Narrative,self,0.5,Y Combinator
+Gluetrail,Gluetrail,self,0.5,Y Combinator
+LaunchFlow,LaunchFlow,self,0.5,Y Combinator
+PoplarML,PoplarML,self,0.5,Y Combinator
+CreatorML,CreatorML,self,0.5,Y Combinator
+Scanbase,Scanbase,self,0.5,Y Combinator
+Bluebirds,Bluebirds,self,0.5,Y Combinator
+Cosine,Cosine,self,0.5,Y Combinator
+Gooseworks,Gooseworks,self,0.5,Y Combinator
+Frigade,Frigade,self,0.5,Y Combinator
+Haven,Haven,self,0.5,Y Combinator
+coil inc.,coil inc.,self,0.5,Y Combinator
+No Cap,No Cap,self,0.5,Y Combinator
+Dream3D,Dream3D,self,0.5,Y Combinator
+DataSuite,DataSuite,self,0.5,Y Combinator
+Outerbase,Outerbase,self,0.5,Y Combinator
+co.dev,co.dev,self,0.5,Y Combinator
+Langfuse,Langfuse,self,0.5,Y Combinator
+Extend,Extend,self,0.5,Y Combinator
+Floworks,Floworks,self,0.5,Y Combinator
+Aqueduct,Aqueduct,self,0.5,Y Combinator
+Velos,Velos,self,0.5,Y Combinator
+EzDubs,EzDubs,self,0.5,Y Combinator
+Wild Moose,Wild Moose,self,0.5,Y Combinator
+ShortLoop,ShortLoop,self,0.5,Y Combinator
+Booth AI,Booth AI,self,0.5,Y Combinator
+Truewind,Truewind,self,0.5,Y Combinator
+TableFlow,TableFlow,self,0.5,Y Combinator
+Orchid,Orchid,self,0.5,Y Combinator
+1stCollab,1stCollab,self,0.5,Y Combinator
+Magicflow 𐂂,Magicflow 𐂂,self,0.5,Y Combinator
+222,222,self,0.5,Y Combinator
+Variance,Variance,self,0.5,Y Combinator
+Fintool,Fintool,self,0.5,Y Combinator
+Boundary,Boundary,self,0.5,Y Combinator
+SensorSurf,SensorSurf,self,0.5,Y Combinator
+Hadrius,Hadrius,self,0.5,Y Combinator
+Fairway Health,Fairway Health,self,0.5,Y Combinator
+Shortbread,Shortbread,self,0.5,Y Combinator
+Sherloq,Sherloq,self,0.5,Y Combinator
+Finic,Finic,self,0.5,Y Combinator
+Hippo Scribe,Hippo Scribe,self,0.5,Y Combinator
+CombineHealth,CombineHealth,self,0.5,Y Combinator
+SuperKalam,SuperKalam,self,0.5,Y Combinator
+Coldreach,Coldreach,self,0.5,Y Combinator
+Pylon,Pylon,self,0.5,Y Combinator
+Clad,Clad,self,0.5,Y Combinator
+Epsilon,Epsilon,self,0.5,Y Combinator
+Hyperdesk,Hyperdesk,self,0.5,Y Combinator
+Corgi Labs,Corgi Labs,self,0.5,Y Combinator
+DAGWorks Inc.,DAGWorks Inc.,self,0.5,Y Combinator
+Rivet,Rivet,self,0.5,Y Combinator
+Maxi,Maxi,self,0.5,Y Combinator
+Hindsight,Hindsight,self,0.5,Y Combinator
+OpenInt,OpenInt,self,0.5,Y Combinator
+Decohere,Decohere,self,0.5,Y Combinator
+CodeParrot AI,CodeParrot AI,self,0.5,Y Combinator
+Conduit,Conduit,self,0.5,Y Combinator
+Interlock,Interlock,self,0.5,Y Combinator
+rex.fit,rex.fit,self,0.5,Y Combinator
+Fabius,Fabius,self,0.5,Y Combinator
+Benchmark,Benchmark,self,0.5,Y Combinator
+Pier,Pier,self,0.5,Y Combinator
+Metal,Metal,self,0.5,Y Combinator
+Atmeto,Atmeto,self,0.5,Y Combinator
+Persana AI,Persana AI,self,0.5,Y Combinator
+Type,Type,self,0.5,Y Combinator
+Vendora,Vendora,self,0.5,Y Combinator
+Adri AI,Adri AI,self,0.5,Y Combinator
+Second,Second,self,0.5,Y Combinator
+Warp,Warp,self,0.5,Y Combinator
+Fetchr,Fetchr,self,0.5,Y Combinator
+LiteLLM,LiteLLM,self,0.5,Y Combinator
+Automat,Automat,self,0.5,Y Combinator
+Yuma AI,Yuma AI,self,0.5,Y Combinator
+Vaero,Vaero,self,0.5,Y Combinator
+kapa.ai,kapa.ai,self,0.5,Y Combinator
+Kino AI,Kino AI,self,0.5,Y Combinator
+Reworkd,Reworkd,self,0.5,Y Combinator
+Branch AI,Branch AI,self,0.5,Y Combinator
+Ora AI,Ora AI,self,0.5,Y Combinator
+Xeol,Xeol,self,0.5,Y Combinator
+Clearest Health,Clearest Health,self,0.5,Y Combinator
+Elyos AI,Elyos AI,self,0.5,Y Combinator
+Accend,Accend,self,0.5,Y Combinator
+Deasy Labs,Deasy Labs,self,0.5,Y Combinator
+Remy,Remy,self,0.5,Y Combinator
+Sohar Health,Sohar Health,self,0.5,Y Combinator
+Diligent,Diligent,self,0.5,Y Combinator
+Pointhound,Pointhound,self,0.5,Y Combinator
+Readily,Readily,self,0.5,Y Combinator
+Casca,Casca,self,0.5,Y Combinator
+Cedana,Cedana,self,0.5,Y Combinator
+OpenTools,OpenTools,self,0.5,Y Combinator
+Atla,Atla,self,0.5,Y Combinator
+Contour,Contour,self,0.5,Y Combinator
+Mandel AI,Mandel AI,self,0.5,Y Combinator
+Prosper,Prosper,self,0.5,Y Combinator
+Talc,Talc,self,0.5,Y Combinator
+CORE,CORE,self,0.5,Y Combinator
+Subsets,Subsets,self,0.5,Y Combinator
+GreenTally,GreenTally,self,0.5,Y Combinator
+Spine AI,Spine AI,self,0.5,Y Combinator
+Baud,Baud,self,0.5,Y Combinator
+SID,SID,self,0.5,Y Combinator
+Alguna,Alguna,self,0.5,Y Combinator
+Campfire,Campfire,self,0.5,Y Combinator
+Venta AI,Venta AI,self,0.5,Y Combinator
+Punchcard,Punchcard,self,0.5,Y Combinator
+Bronco AI,Bronco AI,self,0.5,Y Combinator
+Kite,Kite,self,0.5,Y Combinator
+Obento Health,Obento Health,self,0.5,Y Combinator
+Docsum,Docsum,self,0.5,Y Combinator
+Arcimus,Arcimus,self,0.5,Y Combinator
+Corgea,Corgea,self,0.5,Y Combinator
+Serra,Sierra,fuzzy,0.909,Y Combinator
+Outset,Outset,self,0.5,Y Combinator
+Shasta Health,Shasta Health,self,0.5,Y Combinator
+Health Harbor,Health Harbor,self,0.5,Y Combinator
+FleetWorks,FleetWorks,self,0.5,Y Combinator
+Repaint,Repaint,self,0.5,Y Combinator
+Dialtone,Dialtone,self,0.5,Y Combinator
+Cardinal Gray,Cardinal Gray,self,0.5,Y Combinator
+Skyvern,Skyvern,self,0.5,Y Combinator
+Decoda Health,Decoda Health,self,0.5,Y Combinator
+Numen,Numen,self,0.5,Y Combinator
+VetRec,VetRec,self,0.5,Y Combinator
+Lysto,Lysto,self,0.5,Y Combinator
+HarnessRouter,HarnessRouter,self,0.5,Y Combinator
+Sidenote,Sidenote,self,0.5,Y Combinator
+Unhaze,Unhaze,self,0.5,Y Combinator
+Surface Labs,Surface Labs,self,0.5,Y Combinator
+MediSearch,MediSearch,self,0.5,Y Combinator
+Bretton AI,Bretton AI,self,0.5,Y Combinator
+Midrender,Midrender,self,0.5,Y Combinator
+Vizly,Vizly,self,0.5,Y Combinator
+AgentCollect,AgentCollect,self,0.5,Y Combinator
+Empirical Health,Empirical Health,self,0.5,Y Combinator
+Glade,Glade,self,0.5,Y Combinator
+Continue,Continue,self,0.5,Y Combinator
+sizeless,sizeless,self,0.5,Y Combinator
+Pincites,Pincites,self,0.5,Y Combinator
+Studdy,Studdy,self,0.5,Y Combinator
+Gleam,Gleam,self,0.5,Y Combinator
+Bolto,Bolto,self,0.5,Y Combinator
+Slicker,Slicker,self,0.5,Y Combinator
+Flint,Flint,self,0.5,Y Combinator
+Rankai,Rankai,self,0.5,Y Combinator
+Vango AI,Vango AI,self,0.5,Y Combinator
+Sola,Sola,self,0.5,Y Combinator
+Automorphic,Automorphic,self,0.5,Y Combinator
+Baserun,Baserun,self,0.5,Y Combinator
+VectorShift,VectorShift,self,0.5,Y Combinator
+DisputeNinja,DisputeNinja,self,0.5,Y Combinator
+Inari,Inari,self,0.5,Y Combinator
+Andromeda Surgical,Andromeda Surgical,self,0.5,Y Combinator
+Silimate,Silimate,self,0.5,Y Combinator
+Sweep,Sweep,self,0.5,Y Combinator
+sudocode,sudocode,self,0.5,Y Combinator
+Inventive AI,Inventive AI,self,0.5,Y Combinator
+Langdock,Langdock,self,0.5,Y Combinator
+Movley,Movley,self,0.5,Y Combinator
+Elythea,Elythea,self,0.5,Y Combinator
+Cedalio,Cedalio,self,0.5,Y Combinator
+Terracotta AI,Terracotta AI,self,0.5,Y Combinator
+Fiber AI,Fiber AI,self,0.5,Y Combinator
+Tiptap,Tiptap,self,0.5,Y Combinator
+Minded,Minded,self,0.5,Y Combinator
+Strada,Strada,self,0.5,Y Combinator
+Quill Bills,Quill Bills,self,0.5,Y Combinator
+Cair Health,Cair Health,self,0.5,Y Combinator
+Webhound,Webhound,self,0.5,Y Combinator
+dili,dili,self,0.5,Y Combinator
+Roame,Roame,self,0.5,Y Combinator
+Kips Health,Kips Health,self,0.5,Y Combinator
+Inconvo,Inconvo,self,0.5,Y Combinator
+FlowiseAI,FlowiseAI,self,0.5,Y Combinator
+Saatvy,Saatvy,self,0.5,Y Combinator
+Giga,Giga,self,0.5,Y Combinator
+AiSDR,AiSDR,self,0.5,Y Combinator
+Simbie AI,Simbie AI,self,0.5,Y Combinator
+Mocha,Mocha,self,0.5,Y Combinator
+Twine,Twine,self,0.5,Y Combinator
+Structured Labs,Structured Labs,self,0.5,Y Combinator
+Nowadays,Nowadays,self,0.5,Y Combinator
+Morph,Morph,self,0.5,Y Combinator
+Constructable,Constructable,self,0.5,Y Combinator
+Wattson Health,Wattson Health,self,0.5,Y Combinator
+truemetrics,truemetrics,self,0.5,Y Combinator
+Cognitio Labs,Cognitio Labs,self,0.5,Y Combinator
+Autotab,Autotab,self,0.5,Y Combinator
+Opensteer,Opensteer,self,0.5,Y Combinator
+Tempo,Tempo,self,0.5,Y Combinator
+CodeStory,CodeStory,self,0.5,Y Combinator
+Orbio Earth,Orbio Earth,self,0.5,Y Combinator
+Letterbook,Letterbook,self,0.5,Y Combinator
+Goldbridge,Goldbridge,self,0.5,Y Combinator
+Onyx,Onyx,self,0.5,Y Combinator
+Gumloop,Gumloop,self,0.5,Y Combinator
+Event Horizon Labs,Event Horizon Labs,self,0.5,Y Combinator
+Upsolve AI,Upsolve AI,self,0.5,Y Combinator
+Navier AI,Navier AI,self,0.5,Y Combinator
+DryMerge,DryMerge,self,0.5,Y Combinator
+OpenPipe,OpenPipe,self,0.5,Y Combinator
+RadMate AI,RadMate AI,self,0.5,Y Combinator
+Scritch,Scritch,self,0.5,Y Combinator
+Legora,Legora,self,0.5,Y Combinator
+ego,ego,self,0.5,Y Combinator
+Cora,Cora,self,0.5,Y Combinator
+Greptile,Greptile,self,0.5,Y Combinator
+Ubicloud,Ubicloud,self,0.5,Y Combinator
+Happenstance,Happenstance,self,0.5,Y Combinator
+Duckie,Duckie,self,0.5,Y Combinator
+Dynamite,Dynamite,self,0.5,Y Combinator
+Tekton Dynamics,Tekton Dynamics,self,0.5,Y Combinator
+Sonia,Sonia,self,0.5,Y Combinator
+Aren,Aren,self,0.5,Y Combinator
+Tracecat,Tracecat,self,0.5,Y Combinator
+Precip,Precip,self,0.5,Y Combinator
+Nuanced,Nuanced,self,0.5,Y Combinator
+Poka Labs,Poka Labs,self,0.5,Y Combinator
+Andon Labs,Andon Labs,self,0.5,Y Combinator
+Reducto,Reducto,self,0.5,Y Combinator
+Momentic,Momentic,self,0.5,Y Combinator
+Tuesday Labs,Tuesday Labs,self,0.5,Y Combinator
+Saga AI,Saga AI,self,0.5,Y Combinator
+Quary,Quary,self,0.5,Y Combinator
+Alex,Alex,self,0.5,Y Combinator
+Pretzel AI,Pretzel AI,self,0.5,Y Combinator
+nCompass Technologies,nCompass Technologies,self,0.5,Y Combinator
+Garage,Garage,self,0.5,Y Combinator
+Keystroke,Keystroke,self,0.5,Y Combinator
+Pivot Robotics,Pivot Robotics,self,0.5,Y Combinator
+Agentic Labs,Agentic Labs,self,0.5,Y Combinator
+Basalt,Basalt,self,0.5,Y Combinator
+Breez Labs,Breez Labs,self,0.5,Y Combinator
+AveryIQ,AveryIQ,self,0.5,Y Combinator
+Patchwork,Patchwork,self,0.5,Y Combinator
+PointOne,PointOne,self,0.5,Y Combinator
+Arini,Arini,self,0.5,Y Combinator
+Artisan,Artisan,self,0.5,Y Combinator
+Simplex,Simplex,self,0.5,Y Combinator
+Eggnog,Eggnog,self,0.5,Y Combinator
+Greenboard,Greenboard,self,0.5,Y Combinator
+Ecliptor,Ecliptor,self,0.5,Y Combinator
+Trellis AI,Trellis AI,self,0.5,Y Combinator
+Topo,Topo,self,0.5,Y Combinator
+Panelytic,Panelytic,self,0.5,Y Combinator
+Copper Health,Copper Health,self,0.5,Y Combinator
+Blume Benefits,Blume Benefits,self,0.5,Y Combinator
+Tusk,Tusk,self,0.5,Y Combinator
+Attunement,Attunement,self,0.5,Y Combinator
+StarJar,StarJar,self,0.5,Y Combinator
+Meticulate,Meticulate,self,0.5,Y Combinator
+Glimmer,Glimmer,self,0.5,Y Combinator
+Zaymo,Zaymo,self,0.5,Y Combinator
+PromptArmor,PromptArmor,self,0.5,Y Combinator
+Respan,Respan,self,0.5,Y Combinator
+Monumint,Monumint,self,0.5,Y Combinator
+Central,Central,self,0.5,Y Combinator
+Guide Labs,Guide Labs,self,0.5,Y Combinator
+Speck,Speck,self,0.5,Y Combinator
+Polished,Polished,self,0.5,Y Combinator
+LemonSlice,LemonSlice,self,0.5,Y Combinator
+Decipher AI,Decipher AI,self,0.5,Y Combinator
+Toolify,Toolify,self,0.5,Y Combinator
+Clarion,Clarion,self,0.5,Y Combinator
+Tamarind Bio,Tamarind Bio,self,0.5,Y Combinator
+GloGlo,GloGlo,self,0.5,Y Combinator
+InQuery,InQuery,self,0.5,Y Combinator
+PandasAI,PandasAI,self,0.5,Y Combinator
+Vibrant Labs,Vibrant Labs,self,0.5,Y Combinator
+Parallel,Parallel,self,0.5,Y Combinator
+Fuse,Fuse,self,0.5,Y Combinator
+Feldy,Feldy,self,0.5,Y Combinator
+Firebender,Firebender,self,0.5,Y Combinator
+Resonance,Resonance,self,0.5,Y Combinator
+crmCopilot,crmCopilot,self,0.5,Y Combinator
+NanoCorp,NanoCorp,self,0.5,Y Combinator
+Centralize,Centralize,self,0.5,Y Combinator
+Salvy,Salvy,self,0.5,Y Combinator
+Aedilic,Aedilic,self,0.5,Y Combinator
+Pazi,Pazi,self,0.5,Y Combinator
+Solari AI,Solari AI,self,0.5,Y Combinator
+Ellipsis,Ellipsis,self,0.5,Y Combinator
+Browser Buddy,Browser Buddy,self,0.5,Y Combinator
+Sagaland,Sagaland,self,0.5,Y Combinator
+Superagent,Superagent,self,0.5,Y Combinator
+Preloop,Preloop,self,0.5,Y Combinator
+Carma,Carma,self,0.5,Y Combinator
+Toma,Toma,self,0.5,Y Combinator
+Whip,Whip,self,0.5,Y Combinator
+Trieve,Trieve,self,0.5,Y Combinator
+Soundry AI,Soundry AI,self,0.5,Y Combinator
+Hazel,Hazel,self,0.5,Y Combinator
+Andy AI,Andy AI,self,0.5,Y Combinator
+Overeasy,Overeasy,self,0.5,Y Combinator
+OffDeal,OffDeal,self,0.5,Y Combinator
+Abel,Abel,self,0.5,Y Combinator
+Clarum,Clarum,self,0.5,Y Combinator
+EdgeTrace,EdgeTrace,self,0.5,Y Combinator
+Manifold Freight,Manifold Freight,self,0.5,Y Combinator
+ProSights,ProSights,self,0.5,Y Combinator
+Centauri AI,Centauri AI,self,0.5,Y Combinator
+Raindrop,Raindrop,self,0.5,Y Combinator
+Yondu,Yondu,self,0.5,Y Combinator
+Diana,Diana,self,0.5,Y Combinator
+Risotto,Risotto,self,0.5,Y Combinator
+JustAI,JustAI,self,0.5,Y Combinator
+BetterBasket,BetterBasket,self,0.5,Y Combinator
+Model ML,Model ML,self,0.5,Y Combinator
+Ligo Biosciences,Ligo Biosciences,self,0.5,Y Combinator
+Focal,Focal,self,0.5,Y Combinator
+Brainbase Labs,Brainbase Labs,self,0.5,Y Combinator
+Lumetric,Lumetric,self,0.5,Y Combinator
+Alai,Alai,self,0.5,Y Combinator
+Thorntale,Thorntale,self,0.5,Y Combinator
+Openmart,Openmart,self,0.5,Y Combinator
+Zep AI,Zep AI,self,0.5,Y Combinator
+Treblo,Treblo,self,0.5,Y Combinator
+Shepherd,Shepherd,self,0.5,Y Combinator
+Downlink,Downlink,self,0.5,Y Combinator
+Spark,Spark,self,0.5,Y Combinator
+camelAI,camelAI,self,0.5,Y Combinator
+Rove,Rove,self,0.5,Y Combinator
+Retell AI,Retell AI,self,0.5,Y Combinator
+Ocular AI,Ocular AI,self,0.5,Y Combinator
+Adapted,Adapted,self,0.5,Y Combinator
+Deepnight,Deepnight,self,0.5,Y Combinator
+Aqua Voice,Aqua Voice,self,0.5,Y Combinator
+Basepilot,Basepilot,self,0.5,Y Combinator
+Fluently,Fluently,self,0.5,Y Combinator
+Veles,Veles,self,0.5,Y Combinator
+CommodityAI,CommodityAI,self,0.5,Y Combinator
+Marblism,Marblism,self,0.5,Y Combinator
+Lumona,Lumona,self,0.5,Y Combinator
+Arcane,Arcane,self,0.5,Y Combinator
+Overheard,Overheard,self,0.5,Y Combinator
+Senso,Senso,self,0.5,Y Combinator
+Silogy,Silogy,self,0.5,Y Combinator
+Spur,Spur,self,0.5,Y Combinator
+Evolvere BioSciences,Evolvere BioSciences,self,0.5,Y Combinator
+Piramidal,Piramidal,self,0.5,Y Combinator
+Reform,Reform,self,0.5,Y Combinator
+VoxOps AI,VoxOps AI,self,0.5,Y Combinator
+Integuru,Integuru,self,0.5,Y Combinator
+Forge,Forge,self,0.5,Y Combinator
+Latted,Latted,self,0.5,Y Combinator
+Dragoneye,Dragoneye,self,0.5,Y Combinator
+Tower,Tower,self,0.5,Y Combinator
+Mathos,Mathos,self,0.5,Y Combinator
+kater.ai,kater.ai,self,0.5,Y Combinator
+Yarn,Yarn,self,0.5,Y Combinator
+InspectMind AI,InspectMind AI,self,0.5,Y Combinator
+GetCrux,GetCrux,self,0.5,Y Combinator
+Million,Million,self,0.5,Y Combinator
+RetailReady,RetailReady,self,0.5,Y Combinator
+Forge Rewards,Forge Rewards,self,0.5,Y Combinator
+Marr Labs,Marr Labs,self,0.5,Y Combinator
+K-Scale Labs,K-Scale Labs,self,0.5,Y Combinator
+Coval,Coval,self,0.5,Y Combinator
+Ångström AI,Ångström AI,self,0.5,Y Combinator
+Ultra,Ultra,self,0.5,Y Combinator
+Domu Technology Inc.,Domu Technology Inc.,self,0.5,Y Combinator
+Undermind,Undermind,self,0.5,Y Combinator
+Superunit,Superunit,self,0.5,Y Combinator
+Doublezero,Doublezero,self,0.5,Y Combinator
+Variant,Variant,self,0.5,Y Combinator
+Understood Care,Understood Care,self,0.5,Y Combinator
+Cheers,Cheers,self,0.5,Y Combinator
+Mem0,Mem0,self,0.5,Y Combinator
+Saphira AI,Saphira AI,self,0.5,Y Combinator
+Educato,Educato,self,0.5,Y Combinator
+ProhostAI,ProhostAI,self,0.5,Y Combinator
+Entangl,Entangl,self,0.5,Y Combinator
+Codes Health,Codes Health,self,0.5,Y Combinator
+Unsloth AI,Unsloth AI,self,0.5,Y Combinator
+Random Labs,Random Labs,self,0.5,Y Combinator
+DigitalCarbon,DigitalCarbon,self,0.5,Y Combinator
+Bayesline,Bayesline,self,0.5,Y Combinator
+Invaria,Invaria,self,0.5,Y Combinator
+Sage Care,Sage Care,self,0.5,Y Combinator
+Corgi,Corgi,self,0.5,Y Combinator
+Party,Party,self,0.5,Y Combinator
+Wordware,Wordware,self,0.5,Y Combinator
+Sorcerer,Sorcerer,self,0.5,Y Combinator
+FirstWork,FirstWork,self,0.5,Y Combinator
+Stardrift,Stardrift,self,0.5,Y Combinator
+Decisional AI,Decisional AI,self,0.5,Y Combinator
+Unbound,Unbound,self,0.5,Y Combinator
+Silurian,Silurian,self,0.5,Y Combinator
+NetworkOcean,NetworkOcean,self,0.5,Y Combinator
+Cloudglue,Cloudglue,self,0.5,Y Combinator
+Willow,Willow,self,0.5,Y Combinator
+Proxis,Proxis,self,0.5,Y Combinator
+Scape,Scape,self,0.5,Y Combinator
+"DeepSim, Inc.","DeepSim, Inc.",self,0.5,Y Combinator
+Storia AI,Storia AI,self,0.5,Y Combinator
+Elevate,Elevate,self,0.5,Y Combinator
+Dodo,Dodo,self,0.5,Y Combinator
+RunLocal AI,RunLocal AI,self,0.5,Y Combinator
+CodeViz,CodeViz,self,0.5,Y Combinator
+Parahelp,Parahelp,self,0.5,Y Combinator
+Lore,Lore,self,0.5,Y Combinator
+MinusX,MinusX,self,0.5,Y Combinator
+camfer,camfer,self,0.5,Y Combinator
+Tivara,Tivara,self,0.5,Y Combinator
+Kenley,Kenley,self,0.5,Y Combinator
+Gauge,Gauge,self,0.5,Y Combinator
+Dench.com,Dench.com,self,0.5,Y Combinator
+Stormy,Stormy,self,0.5,Y Combinator
+Plume,Plume,self,0.5,Y Combinator
+LedgerUp,LedgerUp,self,0.5,Y Combinator
+Modus,Modus,self,0.5,Y Combinator
+Lighthouz AI,Lighthouz AI,self,0.5,Y Combinator
+Mito Health,Mito Health,self,0.5,Y Combinator
+TaxGPT,TaxGPT,self,0.5,Y Combinator
+Fazeshift,Fazeshift,self,0.5,Y Combinator
+Benchify,Benchify,self,0.5,Y Combinator
+Anthrogen,Anthrogen,self,0.5,Y Combinator
+CreativeMode,CreativeMode,self,0.5,Y Combinator
+cmux,cmux,self,0.5,Y Combinator
+Panora,Panora,self,0.5,Y Combinator
+Aluna,Aluna,self,0.5,Y Combinator
+Ontra Mobility,Ontra Mobility,self,0.5,Y Combinator
+Overstand Labs,Overstand Labs,self,0.5,Y Combinator
+Clearly AI,Clearly AI,self,0.5,Y Combinator
+Zoa Research,Zoa Research,self,0.5,Y Combinator
+Vibe,Vibe,self,0.5,Y Combinator
+Anara,Anara,self,0.5,Y Combinator
+Planbase,Planbase,self,0.5,Y Combinator
+Redouble AI,Redouble AI,self,0.5,Y Combinator
+Sharpe,Sharpe,self,0.5,Y Combinator
+Drillbit,Drillbit,self,0.5,Y Combinator
+deepsilicon,deepsilicon,self,0.5,Y Combinator
+Titanio,Titanio,self,0.5,Y Combinator
+winfunc,winfunc,self,0.5,Y Combinator
+Opslane,Opslane,self,0.5,Y Combinator
+Conductor Quantum,Conductor Quantum,self,0.5,Y Combinator
+Mage Legal,Mage Legal,self,0.5,Y Combinator
+Distro,Distro,self,0.5,Y Combinator
+Remade,Remade,self,0.5,Y Combinator
+Piggy Robotics,Piggy Robotics,self,0.5,Y Combinator
+Zeit AI,Zeit AI,self,0.5,Y Combinator
+Emergent,Emergent,self,0.5,Y Combinator
+Kura AI,Kura AI,self,0.5,Y Combinator
+Thunder Compute,Thunder Compute,self,0.5,Y Combinator
+Parley,Parley,self,0.5,Y Combinator
+Westgate,Westgate,self,0.5,Y Combinator
+Brighterway,Brighterway,self,0.5,Y Combinator
+Zettascale Computing,Zettascale Computing,self,0.5,Y Combinator
+Praxos,Praxos,self,0.5,Y Combinator
+The Forecasting Company,The Forecasting Company,self,0.5,Y Combinator
+Presti AI,Presti AI,self,0.5,Y Combinator
+Laminar,Laminar,self,0.5,Y Combinator
+Sensei,Sensei,self,0.5,Y Combinator
+Simple AI,Simple AI,self,0.5,Y Combinator
+Palmier,Palmier,self,0.5,Y Combinator
+YouShift,YouShift,self,0.5,Y Combinator
+Cartage,Cartage,self,0.5,Y Combinator
+RiskAngle,RiskAngle,self,0.5,Y Combinator
+Baseline AI,Baseline AI,self,0.5,Y Combinator
+Odo,Odo,self,0.5,Y Combinator
+Haystack,Haystack,self,0.5,Y Combinator
+HeroUI,HeroUI,self,0.5,Y Combinator
+Rescript,Rescript,self,0.5,Y Combinator
+Thyme,Thyme,self,0.5,Y Combinator
+Handled,Handled,self,0.5,Y Combinator
+Dataleap,Dataleap,self,0.5,Y Combinator
+Starcloud,Starcloud,self,0.5,Y Combinator
+Bluedoor,Bluedoor,self,0.5,Y Combinator
+ZeroPath,ZeroPath,self,0.5,Y Combinator
+Propaya,Propaya,self,0.5,Y Combinator
+Polymet,Polymet,self,0.5,Y Combinator
+autarc,autarc,self,0.5,Y Combinator
+Assembly HOA,Assembly HOA,self,0.5,Y Combinator
+Sepal AI,Sepal AI,self,0.5,Y Combinator
+Orca Client,Orca Client,self,0.5,Y Combinator
+Draft The Record,Draft The Record,self,0.5,Y Combinator
+Typa,Typa,self,0.5,Y Combinator
+Quetzal,Quetzal,self,0.5,Y Combinator
+Rastro,Rastro,self,0.5,Y Combinator
+Voker,Voker,self,0.5,Y Combinator
+TradeFlow,TradeFlow,self,0.5,Y Combinator
+Serve AI,Serve AI,self,0.5,Y Combinator
+Blaze,Blaze,self,0.5,Y Combinator
+sentence-transformers,sentence-transformers,self,0.5,Hugging Face Hub
+argmaxinc,argmaxinc,self,0.5,Hugging Face Hub
+cross-encoder,cross-encoder,self,0.5,Hugging Face Hub
+BAAI,BAAI,self,0.5,Hugging Face Hub
+autogluon,autogluon,self,0.5,Hugging Face Hub
+BAAI,BAAI,self,0.5,Hugging Face Hub
+openai-community,openai-community,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+google-bert,google-bert,self,0.5,Hugging Face Hub
+sentence-transformers,sentence-transformers,self,0.5,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+sentence-transformers,sentence-transformers,self,0.5,Hugging Face Hub
+google-t5,google-t5,self,0.5,Hugging Face Hub
+openai,OpenAI,exact,1.0,Hugging Face Hub
+jonatasgrosman,jonatasgrosman,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+BAAI,BAAI,self,0.5,Hugging Face Hub
+hexgrad,hexgrad,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+nomic-ai,nomic-ai,self,0.5,Hugging Face Hub
+deepseek-ai,deepseek-ai,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+audio-cpp,audio-cpp,self,0.5,Hugging Face Hub
+sentence-transformers,sentence-transformers,self,0.5,Hugging Face Hub
+intfloat,intfloat,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+amazon,amazon,self,0.5,Hugging Face Hub
+BAAI,BAAI,self,0.5,Hugging Face Hub
+openai,OpenAI,exact,1.0,Hugging Face Hub
+laion,laion,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+FacebookAI,FacebookAI,self,0.5,Hugging Face Hub
+Bingsu,Bingsu,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+ISTA-DASLab,ISTA-DASLab,self,0.5,Hugging Face Hub
+intfloat,intfloat,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+BAAI,BAAI,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+ibm-granite,ibm-granite,self,0.5,Hugging Face Hub
+Systran,Systran,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+zai-org,zai-org,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+openai,OpenAI,exact,1.0,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+Serveurperso,Serveurperso,self,0.5,Hugging Face Hub
+pyannote,pyannote,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+FacebookAI,FacebookAI,self,0.5,Hugging Face Hub
+MiniMaxAI,MiniMaxAI,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+openai,OpenAI,exact,1.0,Hugging Face Hub
+baidu,baidu,self,0.5,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+pyannote,pyannote,self,0.5,Hugging Face Hub
+laion,laion,self,0.5,Hugging Face Hub
+distilbert,distilbert,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+autogluon,autogluon,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+huihui-ai,huihui-ai,self,0.5,Hugging Face Hub
+coqui,coqui,self,0.5,Hugging Face Hub
+dphn,dphn,self,0.5,Hugging Face Hub
+stabilityai,stabilityai,self,0.5,Hugging Face Hub
+Snowflake,Snowflake,exact,1.0,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+Xenova,Xenova,self,0.5,Hugging Face Hub
+pyannote,pyannote,self,0.5,Hugging Face Hub
+intfloat,intfloat,self,0.5,Hugging Face Hub
+thenlper,thenlper,self,0.5,Hugging Face Hub
+FacebookAI,FacebookAI,self,0.5,Hugging Face Hub
+openai,OpenAI,exact,1.0,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+huihui-ai,huihui-ai,self,0.5,Hugging Face Hub
+ISTA-DASLab,ISTA-DASLab,self,0.5,Hugging Face Hub
+pyannote,pyannote,self,0.5,Hugging Face Hub
+k2-fsa,k2-fsa,self,0.5,Hugging Face Hub
+NeoQuasar,NeoQuasar,self,0.5,Hugging Face Hub
+openai,OpenAI,exact,1.0,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+SC117,SC117,self,0.5,Hugging Face Hub
+meta-llama,meta-llama,self,0.5,Hugging Face Hub
+prithivMLmods,prithivMLmods,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+jonatasgrosman,jonatasgrosman,self,0.5,Hugging Face Hub
+farbodtavakkoli,farbodtavakkoli,self,0.5,Hugging Face Hub
+w11wo,w11wo,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+dropbox-dash,dropbox-dash,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+Arunavaonly,Arunavaonly,self,0.5,Hugging Face Hub
+ai-coustics,ai-coustics,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+cdiamond,cdiamond,self,0.5,Hugging Face Hub
+trl-internal-testing,trl-internal-testing,self,0.5,Hugging Face Hub
+charactr,charactr,self,0.5,Hugging Face Hub
+ProsusAI,ProsusAI,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+FacebookAI,FacebookAI,self,0.5,Hugging Face Hub
+cross-encoder,cross-encoder,self,0.5,Hugging Face Hub
+google-bert,google-bert,self,0.5,Hugging Face Hub
+openai,OpenAI,exact,1.0,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+distilbert,distilbert,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+biohub,biohub,self,0.5,Hugging Face Hub
+Lightricks,Lightricks,self,0.5,Hugging Face Hub
+NeoQuasar,NeoQuasar,self,0.5,Hugging Face Hub
+laion,laion,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+answerdotai,answerdotai,self,0.5,Hugging Face Hub
+handy-computer,handy-computer,self,0.5,Hugging Face Hub
+google-t5,google-t5,self,0.5,Hugging Face Hub
+jonatasgrosman,jonatasgrosman,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+trl-internal-testing,trl-internal-testing,self,0.5,Hugging Face Hub
+ResembleAI,ResembleAI,self,0.5,Hugging Face Hub
+Systran,Systran,self,0.5,Hugging Face Hub
+amazon,amazon,self,0.5,Hugging Face Hub
+mlx-community,mlx-community,self,0.5,Hugging Face Hub
+emilyalsentzer,emilyalsentzer,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+Xenova,Xenova,self,0.5,Hugging Face Hub
+EleutherAI,EleutherAI,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+sentence-transformers,sentence-transformers,self,0.5,Hugging Face Hub
+handy-computer,handy-computer,self,0.5,Hugging Face Hub
+peculiar-ragdoll,peculiar-ragdoll,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+Efficient-Large-Model,Efficient-Large-Model,self,0.5,Hugging Face Hub
+Serveurperso,Serveurperso,self,0.5,Hugging Face Hub
+Qdrant,Qdrant,exact,1.0,Hugging Face Hub
+amazon,amazon,self,0.5,Hugging Face Hub
+MahmoudAshraf,MahmoudAshraf,self,0.5,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+SamLowe,SamLowe,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+vikhyatk,vikhyatk,self,0.5,Hugging Face Hub
+cardiffnlp,cardiffnlp,self,0.5,Hugging Face Hub
+Systran,Systran,self,0.5,Hugging Face Hub
+BAAI,BAAI,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+audeering,audeering,self,0.5,Hugging Face Hub
+pnnbao-ump,pnnbao-ump,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+openai,OpenAI,exact,1.0,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+agentionai,agentionai,self,0.5,Hugging Face Hub
+handy-computer,handy-computer,self,0.5,Hugging Face Hub
+Systran,Systran,self,0.5,Hugging Face Hub
+autogluon,autogluon,self,0.5,Hugging Face Hub
+DavidAU,DavidAU,self,0.5,Hugging Face Hub
+sentence-transformers,sentence-transformers,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+JonathanColetti,JonathanColetti,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+hindsight-ai,hindsight-ai,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+circlestone-labs,circlestone-labs,self,0.5,Hugging Face Hub
+byteshape,byteshape,self,0.5,Hugging Face Hub
+speechbrain,speechbrain,self,0.5,Hugging Face Hub
+mixedbread-ai,mixedbread-ai,self,0.5,Hugging Face Hub
+BAAI,BAAI,self,0.5,Hugging Face Hub
+zai-org,zai-org,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+E-MIMIC,E-MIMIC,self,0.5,Hugging Face Hub
+google-bert,google-bert,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+BAAI,BAAI,self,0.5,Hugging Face Hub
+docling-project,docling-project,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+prism-ml,prism-ml,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+MIT,MIT,self,0.5,Hugging Face Hub
+sentence-transformers,sentence-transformers,self,0.5,Hugging Face Hub
+peasantsmith,peasantsmith,self,0.5,Hugging Face Hub
+DavidAU,DavidAU,self,0.5,Hugging Face Hub
+intfloat,intfloat,self,0.5,Hugging Face Hub
+intfloat,intfloat,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+mistralai,mistralai,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+Kijai,Kijai,self,0.5,Hugging Face Hub
+lightx2v,lightx2v,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+ibm-granite,ibm-granite,self,0.5,Hugging Face Hub
+prism-ml,prism-ml,self,0.5,Hugging Face Hub
+deepseek-ai,deepseek-ai,self,0.5,Hugging Face Hub
+agentionai,agentionai,self,0.5,Hugging Face Hub
+DeepBeepMeep,DeepBeepMeep,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+Systran,Systran,self,0.5,Hugging Face Hub
+HuggingFaceTB,HuggingFaceTB,self,0.5,Hugging Face Hub
+autogluon,autogluon,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+HuggingFaceTB,HuggingFaceTB,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+Systran,Systran,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+remsky,remsky,self,0.5,Hugging Face Hub
+mradermacher,mradermacher,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+sentence-transformers,sentence-transformers,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+migtissera,migtissera,self,0.5,Hugging Face Hub
+google-bert,google-bert,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+Serveurperso,Serveurperso,self,0.5,Hugging Face Hub
+openai,OpenAI,exact,1.0,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+jhgan,jhgan,self,0.5,Hugging Face Hub
+ukisai,ukisai,self,0.5,Hugging Face Hub
+BAAI,BAAI,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+HauhauCS,HauhauCS,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+deepseek-ai,deepseek-ai,self,0.5,Hugging Face Hub
+farbodtavakkoli,farbodtavakkoli,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+Falconsai,Falconsai,self,0.5,Hugging Face Hub
+litert-community,litert-community,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+laion,laion,self,0.5,Hugging Face Hub
+Systran,Systran,self,0.5,Hugging Face Hub
+ukisai,ukisai,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+SG161222,SG161222,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+Qdrant,Qdrant,exact,1.0,Hugging Face Hub
+StanfordAIMI,StanfordAIMI,self,0.5,Hugging Face Hub
+iitolstykh,iitolstykh,self,0.5,Hugging Face Hub
+HauhauCS,HauhauCS,self,0.5,Hugging Face Hub
+mistralai,mistralai,self,0.5,Hugging Face Hub
+colbert-ir,colbert-ir,self,0.5,Hugging Face Hub
+fidel1234,fidel1234,self,0.5,Hugging Face Hub
+sentence-transformers,sentence-transformers,self,0.5,Hugging Face Hub
+peculiar-ragdoll,peculiar-ragdoll,self,0.5,Hugging Face Hub
+cambridgeltl,cambridgeltl,self,0.5,Hugging Face Hub
+Lightricks,Lightricks,self,0.5,Hugging Face Hub
+distilbert,distilbert,self,0.5,Hugging Face Hub
+zai-org,zai-org,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+Alibaba-NLP,Alibaba-NLP,self,0.5,Hugging Face Hub
+docling-project,docling-project,self,0.5,Hugging Face Hub
+Alibaba-NLP,Alibaba-NLP,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+sentence-transformers,sentence-transformers,self,0.5,Hugging Face Hub
+empero-ai,empero-ai,self,0.5,Hugging Face Hub
+distilbert,distilbert,self,0.5,Hugging Face Hub
+PrunaAI,PrunaAI,self,0.5,Hugging Face Hub
+sentence-transformers,sentence-transformers,self,0.5,Hugging Face Hub
+DavidAU,DavidAU,self,0.5,Hugging Face Hub
+meta-llama,meta-llama,self,0.5,Hugging Face Hub
+ISTA-DASLab,ISTA-DASLab,self,0.5,Hugging Face Hub
+DeepBeepMeep,DeepBeepMeep,self,0.5,Hugging Face Hub
+stable-diffusion-v1-5,stable-diffusion-v1-5,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+IDEA-Research,IDEA-Research,self,0.5,Hugging Face Hub
+0bserverx,0bserverx,self,0.5,Hugging Face Hub
+handy-computer,handy-computer,self,0.5,Hugging Face Hub
+prism-ml,prism-ml,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+SWivid,SWivid,self,0.5,Hugging Face Hub
+deepseek-ai,deepseek-ai,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+jinaai,jinaai,self,0.5,Hugging Face Hub
+datalab-to,datalab-to,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+deepseek-ai,deepseek-ai,self,0.5,Hugging Face Hub
+flair,flair,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+deepseek-ai,deepseek-ai,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+scragnog,scragnog,self,0.5,Hugging Face Hub
+turintech,turintech,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+kindlingai,kindlingai,self,0.5,Hugging Face Hub
+depth-anything,depth-anything,self,0.5,Hugging Face Hub
+Xenova,Xenova,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+jonatasgrosman,jonatasgrosman,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+QuantStack,QuantStack,self,0.5,Hugging Face Hub
+WarmBloodAban,WarmBloodAban,self,0.5,Hugging Face Hub
+handy-computer,handy-computer,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+OsaurusAI,OsaurusAI,self,0.5,Hugging Face Hub
+OpenGVLab,OpenGVLab,self,0.5,Hugging Face Hub
+jegreene,jegreene,self,0.5,Hugging Face Hub
+openai-community,openai-community,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+tencent,tencent,self,0.5,Hugging Face Hub
+Salesforce,Salesforce,self,0.5,Hugging Face Hub
+zai-org,zai-org,self,0.5,Hugging Face Hub
+Bingsu,Bingsu,self,0.5,Hugging Face Hub
+HoppouAI,HoppouAI,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+rippertnt,rippertnt,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+PekingU,PekingU,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+cyankiwi,cyankiwi,self,0.5,Hugging Face Hub
+huihui-ai,huihui-ai,self,0.5,Hugging Face Hub
+drbaph,drbaph,self,0.5,Hugging Face Hub
+cross-encoder,cross-encoder,self,0.5,Hugging Face Hub
+deepvk,deepvk,self,0.5,Hugging Face Hub
+thinkingmachines,thinkingmachines,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+Qdrant,Qdrant,exact,1.0,Hugging Face Hub
+nlpaueb,nlpaueb,self,0.5,Hugging Face Hub
+Alibaba-NLP,Alibaba-NLP,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+deepseek-ai,deepseek-ai,self,0.5,Hugging Face Hub
+mradermacher,mradermacher,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+AtomicChat,AtomicChat,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+Xenova,Xenova,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+sentence-transformers,sentence-transformers,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+sshleifer,sshleifer,self,0.5,Hugging Face Hub
+jinaai,jinaai,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+nomic-ai,nomic-ai,self,0.5,Hugging Face Hub
+jonatasgrosman,jonatasgrosman,self,0.5,Hugging Face Hub
+intfloat,intfloat,self,0.5,Hugging Face Hub
+zai-org,zai-org,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+Serveurperso,Serveurperso,self,0.5,Hugging Face Hub
+handy-computer,handy-computer,self,0.5,Hugging Face Hub
+Kijai,Kijai,self,0.5,Hugging Face Hub
+prism-ml,prism-ml,self,0.5,Hugging Face Hub
+mistralai,mistralai,self,0.5,Hugging Face Hub
+ZhengPeng7,ZhengPeng7,self,0.5,Hugging Face Hub
+prism-ml,prism-ml,self,0.5,Hugging Face Hub
+peculiar-ragdoll,peculiar-ragdoll,self,0.5,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+ggml-org,ggml-org,self,0.5,Hugging Face Hub
+autogluon,autogluon,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+openai,OpenAI,exact,1.0,Hugging Face Hub
+XHToken,XHToken,self,0.5,Hugging Face Hub
+zai-org,zai-org,self,0.5,Hugging Face Hub
+unslothai,unslothai,self,0.5,Hugging Face Hub
+openbmb,openbmb,self,0.5,Hugging Face Hub
+DavidAU,DavidAU,self,0.5,Hugging Face Hub
+bartowski,bartowski,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+RedHatAI,RedHatAI,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+turintech,turintech,self,0.5,Hugging Face Hub
+TinyLlama,TinyLlama,self,0.5,Hugging Face Hub
+ttindall,ttindall,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+cagliostrolab,cagliostrolab,self,0.5,Hugging Face Hub
+Lightricks,Lightricks,self,0.5,Hugging Face Hub
+datasocietyco,datasocietyco,self,0.5,Hugging Face Hub
+MiniMaxAI,MiniMaxAI,self,0.5,Hugging Face Hub
+onnx-community,onnx-community,self,0.5,Hugging Face Hub
+black-forest-labs,black-forest-labs,self,0.5,Hugging Face Hub
+gaunernst,gaunernst,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+mradermacher,mradermacher,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+dslim,dslim,self,0.5,Hugging Face Hub
+city96,city96,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+Abiray,Abiray,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+laion,laion,self,0.5,Hugging Face Hub
+bkai-foundation-models,bkai-foundation-models,self,0.5,Hugging Face Hub
+lxyuan,lxyuan,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+zai-org,zai-org,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+kresnik,kresnik,self,0.5,Hugging Face Hub
+sentence-transformers,sentence-transformers,self,0.5,Hugging Face Hub
+openbmb,openbmb,self,0.5,Hugging Face Hub
+bigscience,bigscience,self,0.5,Hugging Face Hub
+Musixmatch,Musixmatch,self,0.5,Hugging Face Hub
+ISTA-DASLab,ISTA-DASLab,self,0.5,Hugging Face Hub
+almanach,almanach,self,0.5,Hugging Face Hub
+Lykon,Lykon,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+lightx2v,lightx2v,self,0.5,Hugging Face Hub
+mradermacher,mradermacher,self,0.5,Hugging Face Hub
+RedHatAI,RedHatAI,self,0.5,Hugging Face Hub
+amunchet,amunchet,self,0.5,Hugging Face Hub
+peculiar-ragdoll,peculiar-ragdoll,self,0.5,Hugging Face Hub
+Qdrant,Qdrant,exact,1.0,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+nanonets,nanonets,self,0.5,Hugging Face Hub
+handy-computer,handy-computer,self,0.5,Hugging Face Hub
+sentence-transformers-testing,sentence-transformers-testing,self,0.5,Hugging Face Hub
+nerkyor,nerkyor,self,0.5,Hugging Face Hub
+bottlecapai,bottlecapai,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+Jackrong,Jackrong,self,0.5,Hugging Face Hub
+livekit,livekit,self,0.5,Hugging Face Hub
+openbmb,openbmb,self,0.5,Hugging Face Hub
+VoVanPhuc,VoVanPhuc,self,0.5,Hugging Face Hub
+allenai,allenai,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+mradermacher,mradermacher,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+VideoRebirthAI,VideoRebirthAI,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+mlx-community,mlx-community,self,0.5,Hugging Face Hub
+Freepik,Freepik,self,0.5,Hugging Face Hub
+cyankiwi,cyankiwi,self,0.5,Hugging Face Hub
+Tongyi-MAI,Tongyi-MAI,self,0.5,Hugging Face Hub
+agentionai,agentionai,self,0.5,Hugging Face Hub
+mradermacher,mradermacher,self,0.5,Hugging Face Hub
+jinaai,jinaai,self,0.5,Hugging Face Hub
+trl-internal-testing,trl-internal-testing,self,0.5,Hugging Face Hub
+intfloat,intfloat,self,0.5,Hugging Face Hub
+Infomaniak-AI,Infomaniak-AI,self,0.5,Hugging Face Hub
+turintech,turintech,self,0.5,Hugging Face Hub
+turintech,turintech,self,0.5,Hugging Face Hub
+unslothai,unslothai,self,0.5,Hugging Face Hub
+farbodtavakkoli,farbodtavakkoli,self,0.5,Hugging Face Hub
+intfloat,intfloat,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+NeoQuasar,NeoQuasar,self,0.5,Hugging Face Hub
+neuralmind,neuralmind,self,0.5,Hugging Face Hub
+turintech,turintech,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+CompendiumLabs,CompendiumLabs,self,0.5,Hugging Face Hub
+jinaai,jinaai,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+mradermacher,mradermacher,self,0.5,Hugging Face Hub
+mradermacher,mradermacher,self,0.5,Hugging Face Hub
+hugging-quants,hugging-quants,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+allenai,allenai,self,0.5,Hugging Face Hub
+InternScience,InternScience,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+amazon,amazon,self,0.5,Hugging Face Hub
+prajjwal1,prajjwal1,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+numz,numz,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+CompendiumLabs,CompendiumLabs,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+HuggingFaceTB,HuggingFaceTB,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+MiniMaxAI,MiniMaxAI,self,0.5,Hugging Face Hub
+thinkingmachines,thinkingmachines,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+HauhauCS,HauhauCS,self,0.5,Hugging Face Hub
+Maximilian228,Maximilian228,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+InternScience,InternScience,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+hustvl,hustvl,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+rizvandwiki,rizvandwiki,self,0.5,Hugging Face Hub
+QuantStack,QuantStack,self,0.5,Hugging Face Hub
+CompendiumLabs,CompendiumLabs,self,0.5,Hugging Face Hub
+cross-encoder,cross-encoder,self,0.5,Hugging Face Hub
+tencent,tencent,self,0.5,Hugging Face Hub
+jinaai,jinaai,self,0.5,Hugging Face Hub
+rhasspy,rhasspy,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+DavidAU,DavidAU,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+litert-community,litert-community,self,0.5,Hugging Face Hub
+apple,apple,self,0.5,Hugging Face Hub
+WhereIsAI,WhereIsAI,self,0.5,Hugging Face Hub
+antirez,antirez,self,0.5,Hugging Face Hub
+shibing624,shibing624,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+moonshotai,moonshotai,self,0.5,Hugging Face Hub
+onnx-community,onnx-community,self,0.5,Hugging Face Hub
+alefiury,alefiury,self,0.5,Hugging Face Hub
+autotrust,autotrust,self,0.5,Hugging Face Hub
+Laxhar,Laxhar,self,0.5,Hugging Face Hub
+MoritzLaurer,MoritzLaurer,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+dbmdz,dbmdz,self,0.5,Hugging Face Hub
+openai,OpenAI,exact,1.0,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+PrimeIntellect,PrimeIntellect,self,0.5,Hugging Face Hub
+DeepBeepMeep,DeepBeepMeep,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+Lightricks,Lightricks,self,0.5,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+minishlab,minishlab,self,0.5,Hugging Face Hub
+circulus,circulus,self,0.5,Hugging Face Hub
+circulus,circulus,self,0.5,Hugging Face Hub
+autotrust,autotrust,self,0.5,Hugging Face Hub
+ai-forever,ai-forever,self,0.5,Hugging Face Hub
+Xenova,Xenova,self,0.5,Hugging Face Hub
+ibm-granite,ibm-granite,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+RedHatAI,RedHatAI,self,0.5,Hugging Face Hub
+laion,laion,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+AdamCodd,AdamCodd,self,0.5,Hugging Face Hub
+pyannote,pyannote,self,0.5,Hugging Face Hub
+rinna,rinna,self,0.5,Hugging Face Hub
+RunDiffusion,RunDiffusion,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+openbmb,openbmb,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+PaddlePaddle,PaddlePaddle,self,0.5,Hugging Face Hub
+sentence-transformers,sentence-transformers,self,0.5,Hugging Face Hub
+audio-cpp,audio-cpp,self,0.5,Hugging Face Hub
+redis,redis,self,0.5,Hugging Face Hub
+FastVideo,FastVideo,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+OpenGVLab,OpenGVLab,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+Babelscape,Babelscape,self,0.5,Hugging Face Hub
+DeepBeepMeep,DeepBeepMeep,self,0.5,Hugging Face Hub
+cyankiwi,cyankiwi,self,0.5,Hugging Face Hub
+meta-llama,meta-llama,self,0.5,Hugging Face Hub
+HauhauCS,HauhauCS,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+NeuML,NeuML,self,0.5,Hugging Face Hub
+llamafactory,llamafactory,self,0.5,Hugging Face Hub
+meta-llama,meta-llama,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+Lorbus,Lorbus,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+black-forest-labs,black-forest-labs,self,0.5,Hugging Face Hub
+Abiray,Abiray,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+orcarouter,orcarouter,self,0.5,Hugging Face Hub
+lightonai,lightonai,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+handy-computer,handy-computer,self,0.5,Hugging Face Hub
+RedHatAI,RedHatAI,self,0.5,Hugging Face Hub
+Hearthscale,Hearthscale,self,0.5,Hugging Face Hub
+jonatasgrosman,jonatasgrosman,self,0.5,Hugging Face Hub
+jinaai,jinaai,self,0.5,Hugging Face Hub
+llava-hf,llava-hf,self,0.5,Hugging Face Hub
+cyankiwi,cyankiwi,self,0.5,Hugging Face Hub
+mixedbread-ai,mixedbread-ai,self,0.5,Hugging Face Hub
+baidu,baidu,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+distil-whisper,distil-whisper,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+AtomicChat,AtomicChat,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+IDEA-Research,IDEA-Research,self,0.5,Hugging Face Hub
+FastVideo,FastVideo,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+amazon,amazon,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+OBLITERATUS,OBLITERATUS,self,0.5,Hugging Face Hub
+hubertsiuzdak,hubertsiuzdak,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+tencent,tencent,self,0.5,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+autogluon,autogluon,self,0.5,Hugging Face Hub
+sentence-transformers,sentence-transformers,self,0.5,Hugging Face Hub
+soyaakinohara,soyaakinohara,self,0.5,Hugging Face Hub
+Marqo,Marqo,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+BVRA,BVRA,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+Rostlab,Rostlab,self,0.5,Hugging Face Hub
+deepseek-ai,deepseek-ai,self,0.5,Hugging Face Hub
+Jmica,Jmica,self,0.5,Hugging Face Hub
+bartowski,bartowski,self,0.5,Hugging Face Hub
+ggml-org,ggml-org,self,0.5,Hugging Face Hub
+ampixa,ampixa,self,0.5,Hugging Face Hub
+nomic-ai,nomic-ai,self,0.5,Hugging Face Hub
+AiAngelGallery,AiAngelGallery,self,0.5,Hugging Face Hub
+huihui-ai,huihui-ai,self,0.5,Hugging Face Hub
+black-forest-labs,black-forest-labs,self,0.5,Hugging Face Hub
+laion,laion,self,0.5,Hugging Face Hub
+albert,albert,self,0.5,Hugging Face Hub
+Qdrant,Qdrant,exact,1.0,Hugging Face Hub
+ccore,ccore,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+zai-org,zai-org,self,0.5,Hugging Face Hub
+AtomicChat,AtomicChat,self,0.5,Hugging Face Hub
+kredor,kredor,self,0.5,Hugging Face Hub
+OliviaRossi,OliviaRossi,self,0.5,Hugging Face Hub
+RadixArk,RadixArk,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+meta-llama,meta-llama,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+empero-ai,empero-ai,self,0.5,Hugging Face Hub
+Helsinki-NLP,Helsinki-NLP,self,0.5,Hugging Face Hub
+turintech,turintech,self,0.5,Hugging Face Hub
+philbert440,philbert440,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+SmilingWolf,SmilingWolf,self,0.5,Hugging Face Hub
+nerualdreming,nerualdreming,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+answerdotai,answerdotai,self,0.5,Hugging Face Hub
+QuantStack,QuantStack,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+poolside,poolside,self,0.5,Hugging Face Hub
+LiquidAI,LiquidAI,self,0.5,Hugging Face Hub
+peft-internal-testing,peft-internal-testing,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+jonatasgrosman,jonatasgrosman,self,0.5,Hugging Face Hub
+datalab-to,datalab-to,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+cis-lmu,cis-lmu,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+YituTech,YituTech,self,0.5,Hugging Face Hub
+sentence-transformers,sentence-transformers,self,0.5,Hugging Face Hub
+Kujira,Kujira,self,0.5,Hugging Face Hub
+oliverguhr,oliverguhr,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+NeoQuasar,NeoQuasar,self,0.5,Hugging Face Hub
+BVRA,BVRA,self,0.5,Hugging Face Hub
+cointegrated,cointegrated,self,0.5,Hugging Face Hub
+Kijai,Kijai,self,0.5,Hugging Face Hub
+togatogah,togatogah,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+cyankiwi,cyankiwi,self,0.5,Hugging Face Hub
+empero-ai,empero-ai,self,0.5,Hugging Face Hub
+ISTA-DASLab,ISTA-DASLab,self,0.5,Hugging Face Hub
+aubmindlab,aubmindlab,self,0.5,Hugging Face Hub
+incoai,incoai,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+nlptown,nlptown,self,0.5,Hugging Face Hub
+stabilityai,stabilityai,self,0.5,Hugging Face Hub
+cl-nagoya,cl-nagoya,self,0.5,Hugging Face Hub
+lpiccinelli,lpiccinelli,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+trl-internal-testing,trl-internal-testing,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+pyannote,pyannote,self,0.5,Hugging Face Hub
+LiquidAI,LiquidAI,self,0.5,Hugging Face Hub
+zed-industries,zed-industries,self,0.5,Hugging Face Hub
+HauhauCS,HauhauCS,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+onnx-community,onnx-community,self,0.5,Hugging Face Hub
+madebyollin,madebyollin,self,0.5,Hugging Face Hub
+empero-ai,empero-ai,self,0.5,Hugging Face Hub
+deepseek-ai,deepseek-ai,self,0.5,Hugging Face Hub
+amazon,amazon,self,0.5,Hugging Face Hub
+datalab-to,datalab-to,self,0.5,Hugging Face Hub
+NeoQuasar,NeoQuasar,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+ggml-org,ggml-org,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+ncbi,ncbi,self,0.5,Hugging Face Hub
+handy-computer,handy-computer,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+scragnog,scragnog,self,0.5,Hugging Face Hub
+mradermacher,mradermacher,self,0.5,Hugging Face Hub
+biohub,biohub,self,0.5,Hugging Face Hub
+Snowflake,Snowflake,exact,1.0,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+HauhauCS,HauhauCS,self,0.5,Hugging Face Hub
+handy-computer,handy-computer,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+poolside,poolside,self,0.5,Hugging Face Hub
+mesolitica,mesolitica,self,0.5,Hugging Face Hub
+z-lab,z-lab,self,0.5,Hugging Face Hub
+AxelPCG,AxelPCG,self,0.5,Hugging Face Hub
+EleutherAI,EleutherAI,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+FINAL-Bench,FINAL-Bench,self,0.5,Hugging Face Hub
+cross-encoder,cross-encoder,self,0.5,Hugging Face Hub
+Xenova,Xenova,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+amazon,amazon,self,0.5,Hugging Face Hub
+AtomicChat,AtomicChat,self,0.5,Hugging Face Hub
+comfyicu,comfyicu,self,0.5,Hugging Face Hub
+MilaNLProc,MilaNLProc,self,0.5,Hugging Face Hub
+Synaptics,Synaptics,self,0.5,Hugging Face Hub
+cyankiwi,cyankiwi,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+camenduru,camenduru,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+emrecan,emrecan,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+sarahai,sarahai,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+openbmb,openbmb,self,0.5,Hugging Face Hub
+Systran,Systran,self,0.5,Hugging Face Hub
+jialinyyzz,jialinyyzz,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+casperhansen,casperhansen,self,0.5,Hugging Face Hub
+PaddlePaddle,PaddlePaddle,self,0.5,Hugging Face Hub
+McGill-NLP,McGill-NLP,self,0.5,Hugging Face Hub
+handy-computer,handy-computer,self,0.5,Hugging Face Hub
+Winnougan,Winnougan,self,0.5,Hugging Face Hub
+Marqo,Marqo,self,0.5,Hugging Face Hub
+segment-any-text,segment-any-text,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+ATH-MaaS,ATH-MaaS,self,0.5,Hugging Face Hub
+NexVeridian,NexVeridian,self,0.5,Hugging Face Hub
+naver,naver,self,0.5,Hugging Face Hub
+sentence-transformers,sentence-transformers,self,0.5,Hugging Face Hub
+mudler,mudler,self,0.5,Hugging Face Hub
+pyannote,pyannote,self,0.5,Hugging Face Hub
+ggml-org,ggml-org,self,0.5,Hugging Face Hub
+Aratako,Aratako,self,0.5,Hugging Face Hub
+tohoku-nlp,tohoku-nlp,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+DavidAU,DavidAU,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+LiquidAI,LiquidAI,self,0.5,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+PaddlePaddle,PaddlePaddle,self,0.5,Hugging Face Hub
+black-forest-labs,black-forest-labs,self,0.5,Hugging Face Hub
+pysentimiento,pysentimiento,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+unslothai,unslothai,self,0.5,Hugging Face Hub
+poolside,poolside,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+distilbert,distilbert,self,0.5,Hugging Face Hub
+unslothai,unslothai,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+nicosuter,nicosuter,self,0.5,Hugging Face Hub
+kindlingai,kindlingai,self,0.5,Hugging Face Hub
+ConwayResearch,ConwayResearch,self,0.5,Hugging Face Hub
+mixedbread-ai,mixedbread-ai,self,0.5,Hugging Face Hub
+CompVis,CompVis,self,0.5,Hugging Face Hub
+LiquidAI,LiquidAI,self,0.5,Hugging Face Hub
+zai-org,zai-org,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+mistralai,mistralai,self,0.5,Hugging Face Hub
+meta-llama,meta-llama,self,0.5,Hugging Face Hub
+Salesforce,Salesforce,self,0.5,Hugging Face Hub
+openbmb,openbmb,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+prithivida,prithivida,self,0.5,Hugging Face Hub
+meta-llama,meta-llama,self,0.5,Hugging Face Hub
+rapid-mlx,rapid-mlx,self,0.5,Hugging Face Hub
+deepseek-ai,deepseek-ai,self,0.5,Hugging Face Hub
+ibm-granite,ibm-granite,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+autotrust,autotrust,self,0.5,Hugging Face Hub
+amazon,amazon,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+dccuchile,dccuchile,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+Systran,Systran,self,0.5,Hugging Face Hub
+mlx-community,mlx-community,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+google-bert,google-bert,self,0.5,Hugging Face Hub
+Wan-AI,Wan-AI,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+laion,laion,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+ByteDance,ByteDance,self,0.5,Hugging Face Hub
+ukisai,ukisai,self,0.5,Hugging Face Hub
+IlyaGusev,IlyaGusev,self,0.5,Hugging Face Hub
+meta-llama,meta-llama,self,0.5,Hugging Face Hub
+airesearch,airesearch,self,0.5,Hugging Face Hub
+abenzerps,abenzerps,self,0.5,Hugging Face Hub
+LBH-123-AI,LBH-123-AI,self,0.5,Hugging Face Hub
+TimKond,TimKond,self,0.5,Hugging Face Hub
+BVRA,BVRA,self,0.5,Hugging Face Hub
+trl-internal-testing,trl-internal-testing,self,0.5,Hugging Face Hub
+yiyanghkust,yiyanghkust,self,0.5,Hugging Face Hub
+erwanf,erwanf,self,0.5,Hugging Face Hub
+handy-computer,handy-computer,self,0.5,Hugging Face Hub
+mradermacher,mradermacher,self,0.5,Hugging Face Hub
+pfnet,pfnet,self,0.5,Hugging Face Hub
+black-forest-labs,black-forest-labs,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+Yehor,Yehor,self,0.5,Hugging Face Hub
+Alibaba-NLP,Alibaba-NLP,self,0.5,Hugging Face Hub
+ByteDance,ByteDance,self,0.5,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+deepvk,deepvk,self,0.5,Hugging Face Hub
+Xenova,Xenova,self,0.5,Hugging Face Hub
+tencent,tencent,self,0.5,Hugging Face Hub
+deepdml,deepdml,self,0.5,Hugging Face Hub
+HauhauCS,HauhauCS,self,0.5,Hugging Face Hub
+ggml-org,ggml-org,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+yikuan8,yikuan8,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+bigscience,bigscience,self,0.5,Hugging Face Hub
+Helsinki-NLP,Helsinki-NLP,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+SC117,SC117,self,0.5,Hugging Face Hub
+mlx-community,mlx-community,self,0.5,Hugging Face Hub
+FremyCompany,FremyCompany,self,0.5,Hugging Face Hub
+CompVis,CompVis,self,0.5,Hugging Face Hub
+autogluon,autogluon,self,0.5,Hugging Face Hub
+obi,obi,self,0.5,Hugging Face Hub
+conservationxlabs,conservationxlabs,self,0.5,Hugging Face Hub
+Salesforce,Salesforce,self,0.5,Hugging Face Hub
+tencent,tencent,self,0.5,Hugging Face Hub
+briaai,briaai,self,0.5,Hugging Face Hub
+QuantStack,QuantStack,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+ggml-org,ggml-org,self,0.5,Hugging Face Hub
+nomic-ai,nomic-ai,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+biohub,biohub,self,0.5,Hugging Face Hub
+RedHatAI,RedHatAI,self,0.5,Hugging Face Hub
+Serveurperso,Serveurperso,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+realrebelai,realrebelai,self,0.5,Hugging Face Hub
+chatrlabs,chatrlabs,self,0.5,Hugging Face Hub
+Snowflake,Snowflake,exact,1.0,Hugging Face Hub
+protectai,protectai,self,0.5,Hugging Face Hub
+MATLOWAI,MATLOWAI,self,0.5,Hugging Face Hub
+onecxi,onecxi,self,0.5,Hugging Face Hub
+thenlper,thenlper,self,0.5,Hugging Face Hub
+depth-anything,depth-anything,self,0.5,Hugging Face Hub
+LyliaEngine,LyliaEngine,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+mradermacher,mradermacher,self,0.5,Hugging Face Hub
+moonshotai,moonshotai,self,0.5,Hugging Face Hub
+DavidAU,DavidAU,self,0.5,Hugging Face Hub
+nlpai-lab,nlpai-lab,self,0.5,Hugging Face Hub
+deepseek-ai,deepseek-ai,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+Salesforce,Salesforce,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+ibm-granite,ibm-granite,self,0.5,Hugging Face Hub
+jimmy31chen,jimmy31chen,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+alesha-pro,alesha-pro,self,0.5,Hugging Face Hub
+LyliaEngine,LyliaEngine,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+Snowflake,Snowflake,exact,1.0,Hugging Face Hub
+Lykon,Lykon,self,0.5,Hugging Face Hub
+BAAI,BAAI,self,0.5,Hugging Face Hub
+gradium,gradium,self,0.5,Hugging Face Hub
+impira,impira,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+sentence-transformers,sentence-transformers,self,0.5,Hugging Face Hub
+poolside,poolside,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+casperhansen,casperhansen,self,0.5,Hugging Face Hub
+ai-sage,ai-sage,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+j-hartmann,j-hartmann,self,0.5,Hugging Face Hub
+peculiar-ragdoll,peculiar-ragdoll,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+Helsinki-NLP,Helsinki-NLP,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+mradermacher,mradermacher,self,0.5,Hugging Face Hub
+Maximilian228,Maximilian228,self,0.5,Hugging Face Hub
+Helsinki-NLP,Helsinki-NLP,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+cyjin-yl,cyjin-yl,self,0.5,Hugging Face Hub
+nphSi,nphSi,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+deepset,deepset,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+jinaai,jinaai,self,0.5,Hugging Face Hub
+bartowski,bartowski,self,0.5,Hugging Face Hub
+cardiffnlp,cardiffnlp,self,0.5,Hugging Face Hub
+stabilityai,stabilityai,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+audio-cpp,audio-cpp,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+Inferact,Inferact,self,0.5,Hugging Face Hub
+comodoro,comodoro,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+patrickjohncyh,patrickjohncyh,self,0.5,Hugging Face Hub
+antirez,antirez,self,0.5,Hugging Face Hub
+Xenova,Xenova,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+RedHatAI,RedHatAI,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+google-bert,google-bert,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+stabilityai,stabilityai,self,0.5,Hugging Face Hub
+trl-internal-testing,trl-internal-testing,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+melcheikh,melcheikh,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+trl-internal-testing,trl-internal-testing,self,0.5,Hugging Face Hub
+bartowski,bartowski,self,0.5,Hugging Face Hub
+QuantTrio,QuantTrio,self,0.5,Hugging Face Hub
+Zyphra,Zyphra,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+neuralmind,neuralmind,self,0.5,Hugging Face Hub
+dragonkue,dragonkue,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+EleutherAI,EleutherAI,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+abenzerps,abenzerps,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+leejet,leejet,self,0.5,Hugging Face Hub
+bartowski,bartowski,self,0.5,Hugging Face Hub
+EleutherAI,EleutherAI,self,0.5,Hugging Face Hub
+Helsinki-NLP,Helsinki-NLP,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+Accio-Lab,Accio-Lab,self,0.5,Hugging Face Hub
+OBLITERATUS,OBLITERATUS,self,0.5,Hugging Face Hub
+indonesian-nlp,indonesian-nlp,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+raxcore-dev,raxcore-dev,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+runmyai,runmyai,self,0.5,Hugging Face Hub
+SyndicateLabs,SyndicateLabs,self,0.5,Hugging Face Hub
+NousResearch,NousResearch,self,0.5,Hugging Face Hub
+trl-internal-testing,trl-internal-testing,self,0.5,Hugging Face Hub
+stable-diffusion-v1-5,stable-diffusion-v1-5,self,0.5,Hugging Face Hub
+Alissonerdx,Alissonerdx,self,0.5,Hugging Face Hub
+dragonkue,dragonkue,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+mpoyraz,mpoyraz,self,0.5,Hugging Face Hub
+mattmdjaga,mattmdjaga,self,0.5,Hugging Face Hub
+Synaptics,Synaptics,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+fastino,fastino,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+CIDAS,CIDAS,self,0.5,Hugging Face Hub
+minishlab,minishlab,self,0.5,Hugging Face Hub
+usyd-community,usyd-community,self,0.5,Hugging Face Hub
+moonshotai,moonshotai,self,0.5,Hugging Face Hub
+janhq,janhq,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+ByteDance,ByteDance,self,0.5,Hugging Face Hub
+t8star,t8star,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+google-bert,google-bert,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+trklou,trklou,self,0.5,Hugging Face Hub
+deepseek-ai,deepseek-ai,self,0.5,Hugging Face Hub
+PaddlePaddle,PaddlePaddle,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+PassingByPixels,PassingByPixels,self,0.5,Hugging Face Hub
+ornith-ai,ornith-ai,self,0.5,Hugging Face Hub
+ai4bharat,ai4bharat,self,0.5,Hugging Face Hub
+ibm-granite,ibm-granite,self,0.5,Hugging Face Hub
+antirez,antirez,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+biohub,biohub,self,0.5,Hugging Face Hub
+lmstudio-community,lmstudio-community,self,0.5,Hugging Face Hub
+abhishek085,abhishek085,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+dots-studio,dots-studio,self,0.5,Hugging Face Hub
+Comfy-Org,Comfy-Org,self,0.5,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+meta-llama,meta-llama,self,0.5,Hugging Face Hub
+google,Google DeepMind,exact,1.0,Hugging Face Hub
+audio-cpp,audio-cpp,self,0.5,Hugging Face Hub
+E-MIMIC,E-MIMIC,self,0.5,Hugging Face Hub
+cybersectony,cybersectony,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+timm,timm,self,0.5,Hugging Face Hub
+ml-resources,ml-resources,self,0.5,Hugging Face Hub
+LiquidAI,LiquidAI,self,0.5,Hugging Face Hub
+mudler,mudler,self,0.5,Hugging Face Hub
+openai,OpenAI,exact,1.0,Hugging Face Hub
+jhu-clsp,jhu-clsp,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+unsloth,unsloth,self,0.5,Hugging Face Hub
+mistralai,mistralai,self,0.5,Hugging Face Hub
+Qwen,Qwen,self,0.5,Hugging Face Hub
+bartowski,bartowski,self,0.5,Hugging Face Hub
+huihui-ai,huihui-ai,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+depth-anything,depth-anything,self,0.5,Hugging Face Hub
+oliverguhr,oliverguhr,self,0.5,Hugging Face Hub
+nvidia,nvidia,self,0.5,Hugging Face Hub
+facebook,facebook,self,0.5,Hugging Face Hub
+scragnog,scragnog,self,0.5,Hugging Face Hub
+microsoft,microsoft,self,0.5,Hugging Face Hub
+Coreweaveu,Coreweaveu,self,0.5,Arbeitnow
+Coreweaveu,Coreweaveu,self,0.5,Arbeitnow
+encontec GmbH,encontec GmbH,self,0.5,Arbeitnow
+Evolve Digital GmbH,Evolve Digital GmbH,self,0.5,Arbeitnow
+Dataleap,Dataleap,self,0.5,Arbeitnow
+Dataleap,Dataleap,self,0.5,Arbeitnow
+Skalar,Skalar,self,0.5,Arbeitnow
+Skalar,Skalar,self,0.5,Arbeitnow
+Se3,Se3,self,0.5,Arbeitnow
+Zeit Ai,Zeit Ai,self,0.5,Arbeitnow
+Zeit Ai,Zeit Ai,self,0.5,Arbeitnow
+F& | Focus & Flow GmbH,F& | Focus & Flow GmbH,self,0.5,Arbeitnow
+JustPlay GmbH,JustPlay GmbH,self,0.5,Arbeitnow
+JustPlay GmbH,JustPlay GmbH,self,0.5,Arbeitnow
+Redwoodsoftware,Redwoodsoftware,self,0.5,Arbeitnow
+Glow25,Glow25,self,0.5,Arbeitnow
+Glow25,Glow25,self,0.5,Arbeitnow
+LILT (Production),LILT (Production),self,0.5,Arbeitnow
+Kayak,Kayak,self,0.5,Arbeitnow
+Kayak,Kayak,self,0.5,Arbeitnow
+Packmatic,Packmatic,self,0.5,Arbeitnow
+Deliverect,Deliverect,self,0.5,Arbeitnow
+Skdse,Skdse,self,0.5,Arbeitnow
+Skdse,Skdse,self,0.5,Arbeitnow
+Skdse,Skdse,self,0.5,Arbeitnow
+Skdse,Skdse,self,0.5,Arbeitnow
+Skdse,Skdse,self,0.5,Arbeitnow
+Skdse,Skdse,self,0.5,Arbeitnow
+databricks,Databricks,exact,1.0,Arbeitnow
+databricks,Databricks,exact,1.0,Arbeitnow
+databricks,Databricks,exact,1.0,Arbeitnow
+Tacto,Tacto,self,0.5,Arbeitnow
+Tacto,Tacto,self,0.5,Arbeitnow
+Tacto,Tacto,self,0.5,Arbeitnow
+Tacto,Tacto,self,0.5,Arbeitnow
+Enpal,Enpal,self,0.5,Arbeitnow
+Legora,Legora,self,0.5,Arbeitnow
+Qdrant.tech,Qdrant.tech,self,0.5,Arbeitnow
+True Talent Solutions Partners,True Talent Solutions Partners,self,0.5,Arbeitnow
+Vision Markets - Your global growth in Machine Vision,Vision Markets - Your global growth in Machine Vision,self,0.5,Arbeitnow
+wppmedia,wppmedia,self,0.5,Arbeitnow
+wppmedia,wppmedia,self,0.5,Arbeitnow
+Catapult Sports,Catapult Sports,self,0.5,Arbeitnow
+Kraken,Kraken,self,0.5,Arbeitnow
+bunch,bunch,self,0.5,Arbeitnow
+Agilerobotsse,Agilerobotsse,self,0.5,Arbeitnow
+Agilerobotsse,Agilerobotsse,self,0.5,Arbeitnow
+Agilerobotsse,Agilerobotsse,self,0.5,Arbeitnow
+Agilerobotsse,Agilerobotsse,self,0.5,Arbeitnow
+Agilerobotsse,Agilerobotsse,self,0.5,Arbeitnow
+zscaler,zscaler,self,0.5,Arbeitnow
+zscaler,zscaler,self,0.5,Arbeitnow
+gitlab,gitlab,self,0.5,Arbeitnow
+gitlab,gitlab,self,0.5,Arbeitnow
+Scape,Scape,self,0.5,Arbeitnow
+TRM Labs,TRM Labs,self,0.5,Arbeitnow
+Taxfix,Taxfix,self,0.5,Arbeitnow
+unframe,unframe,self,0.5,Arbeitnow
+intercom,intercom,self,0.5,Arbeitnow
+intercom,intercom,self,0.5,Arbeitnow
+wongdoody,wongdoody,self,0.5,Arbeitnow
+celonis,celonis,self,0.5,Arbeitnow
+celonis,celonis,self,0.5,Arbeitnow
+Coreweaveu,Coreweaveu,self,0.5,Arbeitnow
+Coreweaveu,Coreweaveu,self,0.5,Arbeitnow
+thoughtworks,thoughtworks,self,0.5,Arbeitnow
+scaleai,scaleai,self,0.5,Arbeitnow
+Graphcore,Graphcore,exact,1.0,Arbeitnow
+Graphcore,Graphcore,exact,1.0,Arbeitnow
+Graphcore,Graphcore,exact,1.0,Arbeitnow
+Coreweaveu,Coreweaveu,self,0.5,Arbeitnow
+Asm,Asm,self,0.5,Arbeitnow
+atlantic.vc,atlantic.vc,self,0.5,Arbeitnow
+Signal Processing Engineer (RF Processing & Analytics),Signal Processing Engineer (RF Processing & Analytics),self,0.5,Arbeitnow
+Signal Processing Engineer (RF Processing & Analytics),Signal Processing Engineer (RF Processing & Analytics),self,0.5,Arbeitnow
+Signal Processing Engineer (RF Processing & Analytics),Signal Processing Engineer (RF Processing & Analytics),self,0.5,Arbeitnow
+Signal Processing Engineer (RF Processing & Analytics),Signal Processing Engineer (RF Processing & Analytics),self,0.5,Arbeitnow
+Signal Processing Engineer (RF Processing & Analytics),Signal Processing Engineer (RF Processing & Analytics),self,0.5,Arbeitnow
+Signal Processing Engineer (RF Processing & Analytics),Signal Processing Engineer (RF Processing & Analytics),self,0.5,Arbeitnow
+Illumio,Illumio,self,0.5,Arbeitnow
+Artefactlinkedin,Artefactlinkedin,self,0.5,Arbeitnow
+Artefactlinkedin,Artefactlinkedin,self,0.5,Arbeitnow
+Artefact,Artefact,self,0.5,Arbeitnow
+Artefact,Artefact,self,0.5,Arbeitnow
+Alan,Alan,self,0.5,Arbeitnow
+Alan,Alan,self,0.5,Arbeitnow
+Alan,Alan,self,0.5,Arbeitnow
+VO2 Group,VO2 Group,self,0.5,Arbeitnow
+Ekimetrics,Ekimetrics,self,0.5,Arbeitnow
+Scality,Scality,self,0.5,Arbeitnow
+Artefactjobs,Artefactjobs,self,0.5,Arbeitnow
+Artefactjobs,Artefactjobs,self,0.5,Arbeitnow
+Yubo,Yubo,self,0.5,Arbeitnow
+wppmedia,wppmedia,self,0.5,Arbeitnow
+Vmlenterprisesolutions,Vmlenterprisesolutions,self,0.5,Arbeitnow
+veeamsoftware,veeamsoftware,self,0.5,Arbeitnow
+Decathlontechnology,Decathlontechnology,self,0.5,Arbeitnow
+Decathlontechnology,Decathlontechnology,self,0.5,Arbeitnow
+Elastic,Elastic,self,0.5,Arbeitnow
+Elastic,Elastic,self,0.5,Arbeitnow
+Elastic,Elastic,self,0.5,Arbeitnow
+Gravis Robotics,Gravis Robotics,self,0.5,Arbeitnow
+wppmedia,wppmedia,self,0.5,Arbeitnow
+Benchling,Benchling,self,0.5,Arbeitnow
+ionq,ionq,self,0.5,Arbeitnow
+Handpicked,Handpicked,self,0.5,Arbeitnow
+Simvia,Simvia,self,0.5,Arbeitnow
+typeform,typeform,self,0.5,Arbeitnow
+grafanalabs,grafanalabs,self,0.5,Arbeitnow
+Manychat,Manychat,self,0.5,Arbeitnow
+Blocktech,Blocktech,self,0.5,Arbeitnow
+Datasnipper,Datasnipper,self,0.5,Arbeitnow
+Mytomorrows,Mytomorrows,self,0.5,Arbeitnow
+Storyteq,Storyteq,self,0.5,Arbeitnow
+housinganywhere,housinganywhere,self,0.5,Arbeitnow
+celonis,celonis,self,0.5,Arbeitnow
+Tasklet,Tasklet,self,0.5,Hacker News Jobs

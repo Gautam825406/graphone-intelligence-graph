@@ -1,0 +1,13 @@
+aiohttp>=3.9.0
+feedparser>=6.0.0
+python-dateutil>=2.8.0
+rapidfuzz>=3.0.0
+requests>=2.31.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+reportlab>=4.0.0
+pytest>=7.4.0
+# Optional LLM tiers — installed only when keys are set:
+# google-generativeai>=0.5.0  # Gemini Flash
+# openai>=1.30.0              # DeepSeek (OpenAI-compatible) + Groq (OpenAI-compatible)
+# groq>=0.9.0                 # Groq native client
