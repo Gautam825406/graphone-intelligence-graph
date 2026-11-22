@@ -67,9 +67,10 @@ Output: `data/final/*.csv`, `data/graphone_output.xlsx`,
   chunking (head + densest sentences under a per-model char budget),
   exponential backoff with full jitter for 429s. The LLM **only
   structures text from a real source**; `validate_against_source()`
-  drops any output value not present in the input. In this run no LLM
-  key was configured, so the tier reports `llm_skipped` and the
-  API-structured rows are kept as-is.
+  drops any output value not present in the input. The Groq tier was
+  exercised on a grounded sample 9/10 (qwen/qwen3.8-27b); Gemini/DeepSeek
+  were not exercised (no keys); the full dataset was deliberately not
+  re-run through the LLM, so the API-structured rows are kept as-is.
 * `src/entity_resolver.py` — deterministic canonicalisation:
   normalise (lowercase → strip legal suffixes → strip punctuation),
   exact match → fuzzy match (rapidfuzz, threshold 88) against a seed

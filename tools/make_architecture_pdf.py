@@ -87,9 +87,11 @@ SECTIONS = [
     ("Verification (this run). ", H,
      "1,100 / 1,100 / 1,000 rows; dedupe confirmed; 20 random source URLs per file "
      "checked (startups, products, papers 20/20 HTTP 200); all news/jobs within 24 h; "
-     "8 unit tests pass. Known gaps: LLM tiers unexercised (no keys in this run), "
-     "GitHub stars 45/131 repos (unauthenticated 60/hr limit), Papers With Code API "
-     "is dead (302 to Hugging Face). Full detail: README.md and RUN_LOG.md."),
+     "16 unit tests pass. Groq tier exercised on a grounded sample 9/10 "
+     "(qwen/qwen3.8-27b; llama-3.3-70b-versatile is decommissioned on Groq); "
+     "Gemini/DeepSeek not exercised (no keys). GitHub stars 127/131 repos "
+     "(4 repos are GitHub 404s); Papers With Code API is dead (302 to Hugging "
+     "Face). Full detail: README.md and RUN_LOG.md."),
 ]
 
 def build():
